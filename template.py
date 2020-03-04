@@ -77,6 +77,7 @@ class HMM:
     def LidstoneProbDistFactory(self, freqdist, gamma=0.01, extra_bins=1):
         return nltk.LidstoneProbDist(freqdist, gamma, freqdist.B() + extra_bins)
 
+
     # Access function for testing the emission model
     # For example model.elprob('VERB','is') might be -1.4
     def elprob(self,state,word):
@@ -113,12 +114,17 @@ class HMM:
         # in our case the tuples will be of the form (tag_(i),tag_(i+1)).
         # DON'T FORGET TO ADD THE START SYMBOL </s> and the END SYMBOL </s>
         for s in train_data:
-            pass  # TODO
-
+            for i, word_tag in enumerate(s):
+                tag = word_tag[1]
+                if i == 0:
+                    data.append(("<s>", tag))
+                if i != len(s) - 1:
+                    data.append((tag, s[i + 1][1]))
+                else:
+                    data.append((tag, "</s>"))
         # TODO compute the transition model
-
-        transition_FD = 'fixme'
-        self.transition_PD = 'fixme'
+        transition_FD = nltk.ConditionalFreqDist(data)
+        self.transition_PD = nltk.ConditionalProbDist(transition_FD, self.LidstoneProbDistFactory)
 
         return self.transition_PD
 
@@ -135,8 +141,8 @@ class HMM:
         :return: log base 2 of the estimated transition probability
         :rtype: float
         """
-        raise NotImplementedError('HMM.tlprob')
-        return ... # fixme
+        prob = self.transition_PD[state1].prob(state2)
+        return math.log(prob, 2)
 
     # Train the HMM
     def train(self):
@@ -158,15 +164,22 @@ class HMM:
 
         :param observation: the first word in the sentence to tag
         :type observation: str
+        Data Structures
+        :param viterbi: Dictionary of tags to a list of cost corresponding to the steps of tagging.
+        So viterbi["NOUN"][4] would be the cost of a NOUN at step 4.
+        :type viterbi: Dictionary(String -> list(float))
+        :param backtrace: Dictionary of tags to a list of tags corresponding to the steps of tagging.
+        So backtrace["VERB"][3] would be the backtrace of a VERB at step 3.
+        :type backtrace: Dictionary(String -> list(String))
         """
-        raise NotImplementedError('HMM.initialise')
-        # Initialise step 0 of viterbi, including
-        #  transition from <s> to observation
-        # use costs (-log-base-2 probabilities)
-        # TODO
+        start_state = "<s>"
+        self.viterbi = dict()
+        self.backpointer = dict()
+        for state in self.states:
+            #tlprob and elprob return positive logarithms of the probability, they must be negated to become costs.
+            self.viterbi.update({state : [-self.tlprob(state, start_state) - self.elprob(state, observation)]})
+            self.backpointer.update({state : [start_state]})
 
-        # Initialise step 0 of backpointer
-        # TODO
 
     # Tag a new sentence using the trained model and already initialised data structures.
     # Use the models stored in the variables: self.emission_PD and self.transition_PD.
@@ -180,27 +193,59 @@ class HMM:
         :type observations: list(str)
         :return: List of tags corresponding to each word of the input
         """
-        raise NotImplementedError('HMM.tag')
+#        raise NotImplementedError('HMM.tag')
         tags = []
-
-        for t in ...: # fixme to iterate over steps
-            for s in ...: # fixme to iterate over states
-                pass # fixme to update the viterbi and backpointer data structures
-                #  Use costs, not probabilities
+        if self.backpointer == None or self.viterbi == None:
+            raise AttributeError("Either backpointer or viterbi have not been intialized yet, remember to run initalise"
+                                 "before tag.")
+        #The step that self.viterbi and self.backpointer are currently on
+        step = len(self.backpointer["NOUN"]) - 1
+        for t in observations:
+            for s in self.states:
+                cost_given_word = self.elprob(s, t)
+                last_state_cost = 0
+                last_state = None
+                #Choose the last state with the least cost
+                for context in self.states:
+                    #These methods return the log of the probability, they must be negated to be the cost
+                    cost_of_context = -(self.get_viterbi_value(context, step) + self.tlprob(s, context))
+                    if last_state is None:
+                        last_state = context
+                        last_state_cost = cost_of_context
+                    elif cost_of_context < last_state_cost:
+                        last_state = context
+                        last_state_cost = cost_of_context
+                cost_total = -self.elprob(s, t) + last_state_cost
+                #Update viterbi and backpointer with the cost and last_state of the next step.
+                self.viterbi[s].append(cost_total)
+                self.backpointer[s].append(last_state)
+                #We have now gone one further step in the viterbi algorithm
+                step += 1
 
         # TODO
         # Add a termination step with cost based solely on cost of transition to </s> , end of sentence.
+        termination_state = "</s>"
+        for s in self.states:
+            cost_of_context = -self.get_viterbi_value(s, step) - self.tlprob(s, termination_state)
+            #The chance that the termination symbol will be used at the sentence end is 100%, meaning cost is 0
+            cost_total = cost_of_context
+            #Add this cost to the next step in the viterbi
+            self.viterbi[s].append(cost_total)
+            #Todo: Will this screw up everything??
 
         # TODO
         # Reconstruct the tag sequence using the backpointer list.
         # Return the tag sequence corresponding to the best path as a list.
         # The order should match that of the words in the sentence.
-        tags = ... # fixme
+        #tags = ... # fixme
 
         return tags
 
+
+
     # Access function for testing the viterbi data structure
-    # For example model.get_viterbi_value('VERB',2) might be 6.42 
+    # For example model.get_viterbi_value('VERB',2) might be 6.42
+
     def get_viterbi_value(self, state, step):
         """
         Return the current value from self.viterbi for
@@ -214,8 +259,7 @@ class HMM:
         :return: The value (a cost) for state as of step
         :rtype: float
         """
-        raise NotImplementedError('HMM.get_viterbi_value')
-        return ... # fix me
+        return self.viterbi[state][step]
 
     # Access function for testing the backpointer data structure
     # For example model.get_backpointer_value('VERB',2) might be 'NOUN'
@@ -232,8 +276,7 @@ class HMM:
         :return: The state name to go back to at step-1
         :rtype: str
         """
-        raise NotImplementedError('HMM.get_backpointer_value')
-        return ... # fix me
+        return self.backpointer[state][step]
 
 def answer_question4b():
     """

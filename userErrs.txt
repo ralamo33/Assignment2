@@ -1,28 +1,18 @@
-The following line threw a NotImplementedError exception: HMM.tlprob:
-t_sample=model.tlprob('VERB','VERB')
--------
-The following lines threw a NameError exception: name 't_sample' is not defined:
-if not (type(t_sample)==float and t_sample<=0.0):
-       print('tlprob value (%s) must be a log probability'%t_sample,file=sys.stderr)
--------
-The following line threw a NotImplementedError exception: HMM.initialise:
-model.initialise(s[0])
--------
-The following line threw a NotImplementedError exception: HMM.get_viterbi_value:
+The following line threw a IndexError exception: list index out of range:
 v_sample=model.get_viterbi_value('VERB',5)
 -------
 The following lines threw a NameError exception: name 'v_sample' is not defined:
 if not (type(v_sample)==float and 0.0<=v_sample):
        print('viterbi value (%s) must be a cost'%v_sample,file=sys.stderr)
 -------
-The following line threw a NotImplementedError exception: HMM.get_backpointer_value:
+The following line threw a IndexError exception: list index out of range:
 b_sample=model.get_backpointer_value('VERB',5)
 -------
 The following lines threw a NameError exception: name 'b_sample' is not defined:
 if not (type(b_sample)==str and b_sample in model.states):
        print('backpointer value (%s) must be a state name'%b_sample,file=sys.stderr)
 -------
-The following lines threw a NotImplementedError exception: HMM.initialise:
+The following lines threw a IndexError exception: list index out of range:
 for sentence in test_data_universal:
     s = [word.lower() for (word, tag) in sentence]
     model.initialise(s[0])
@@ -72,6 +62,13 @@ Exception in answer dict value computation:
   File "C:\Users\ralam\PycharmProjects\Assignment2\autodrive_embed.py", line 55, in safeEval
     return eval(expr,gdict)
   File "<string>", line 1, in <module>
+Exception in answer dict value computation:
+    model.get_viterbi_value("VERB",5) -> IndexError('list index out of range')
+  File "C:\Users\ralam\PycharmProjects\Assignment2\autodrive_embed.py", line 55, in safeEval
+    return eval(expr,gdict)
+  File "<string>", line 1, in <module>
+  File "template.py", line 262, in get_viterbi_value
+    return self.viterbi[state][step]
 Exception in answer dict value computation:
     answer5 -> NameError("name 'answer5' is not defined")
   File "C:\Users\ralam\PycharmProjects\Assignment2\autodrive_embed.py", line 55, in safeEval
