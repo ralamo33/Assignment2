@@ -1,0 +1,17 @@
+a1a=['.', 'ADJ', 'ADP', 'ADV', 'CONJ', 'DET', 'NOUN', 'NUM', 'PRON', 'PRT', 'VERB', 'X']
+a1b=2649
+a1c=12.154473307715126
+a1d='ABCMeta'
+a2a=
+a2b=
+a4a3=0.0
+a4b1=
+a4b2=
+a4b3=
+a4c=
+a4d=
+a4e=[]
+a5=
+a6=
+a3c=
+a3d=
