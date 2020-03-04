@@ -1,7 +1,7 @@
 a1a=['.', 'ADJ', 'ADP', 'ADV', 'CONJ', 'DET', 'NOUN', 'NUM', 'PRON', 'PRT', 'VERB', 'X']
 a1b=2649
-a1c=12.154473307715126
-a1d='ABCMeta'
+a1c=12.05988565013656
+a1d='method'
 a2a=
 a2b=
 a4a3=0.0

@@ -70,9 +70,12 @@ class HMM:
                 flat_data.append(item)
         emission_FD = nltk.ConditionalFreqDist(flat_data)
         #Should I be using emission_FD for the FreqDistributions???/
-        self.emission_PD = nltk.ConditionalProbDist(emission_FD, nltk.LidstoneProbDist, 0.01, emission_FD.N() + 1)
+        self.emission_PD = nltk.ConditionalProbDist(emission_FD, self.LidstoneProbDistFactory)
         self.states = self.emission_PD.keys()
         return self.emission_PD, self.states
+
+    def LidstoneProbDistFactory(self, freqdist, gamma=0.01, extra_bins=1):
+        return nltk.LidstoneProbDist(freqdist, gamma, freqdist.B() + extra_bins)
 
     # Access function for testing the emission model
     # For example model.elprob('VERB','is') might be -1.4
@@ -87,7 +90,8 @@ class HMM:
         :return: log base 2 of the estimated emission probability
         :rtype: float
         """
-        ans = math.log(self.emission_PD[state].prob(word), 2)
+        probability = self.emission_PD[state].prob(word)
+        ans = math.log(probability, 2)
         return ans
 
     # Compute transition model using ConditionalProbDist with a LidstonelprobDist estimator.
@@ -380,10 +384,10 @@ def answers():
     print(answer6[:500])
 
 if __name__ == '__main__':
-    if len(sys.argv)>1 and sys.argv[1] == '--answers':
+#    if len(sys.argv)>1 and sys.argv[1] == '--answers':
         import adrive2_embed
         from autodrive_embed import run, carefulBind
         with open("userErrs.txt","w") as errlog:
             run(globals(),answers,adrive2_embed.a2answers,errlog)
-    else:
-        answers()
+#    else:
+#        answers()
