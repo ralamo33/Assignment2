@@ -177,7 +177,7 @@ class HMM:
         self.backpointer = dict()
         for state in self.states:
             #tlprob and elprob return positive logarithms of the probability, they must be negated to become costs.
-            self.viterbi.update({state : [-self.tlprob(state, start_state) - self.elprob(state, observation)]})
+            self.viterbi.update({state : [-self.tlprob(start_state, state) - self.elprob(state, observation)]})
             self.backpointer.update({state : [start_state]})
 
 
@@ -208,7 +208,7 @@ class HMM:
                 #Choose the last state with the least cost
                 for context in self.states:
                     #These methods return the log of the probability, they must be negated to be the cost
-                    cost_of_context = -(self.get_viterbi_value(context, step) + self.tlprob(s, context))
+                    cost_of_context = -(self.get_viterbi_value(context, step) + self.tlprob(context, s))
                     if last_state is None:
                         last_state = context
                         last_state_cost = cost_of_context
