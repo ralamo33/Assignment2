@@ -71,7 +71,7 @@ class HMM:
         emission_FD = nltk.ConditionalFreqDist(flat_data)
         #Should I be using emission_FD for the FreqDistributions???/
         self.emission_PD = nltk.ConditionalProbDist(emission_FD, self.LidstoneProbDistFactory)
-        self.states = self.emission_PD.keys()
+        self.states = list(self.emission_PD.keys())
         return self.emission_PD, self.states
 
     def LidstoneProbDistFactory(self, freqdist, gamma=0.01, extra_bins=1):
@@ -198,47 +198,64 @@ class HMM:
         if self.backpointer == None or self.viterbi == None:
             raise AttributeError("Either backpointer or viterbi have not been intialized yet, remember to run initalise"
                                  "before tag.")
+        #ToDO: Verb at step 5 should cost 56
         #The step that self.viterbi and self.backpointer are currently on
         step = len(self.backpointer["NOUN"]) - 1
         for t in observations:
             for s in self.states:
-                cost_given_word = self.elprob(s, t)
+                cost_given_word = -self.elprob(s, t)
                 last_state_cost = 0
                 last_state = None
                 #Choose the last state with the least cost
                 for context in self.states:
-                    #These methods return the log of the probability, they must be negated to be the cost
-                    cost_of_context = -(self.get_viterbi_value(context, step) + self.tlprob(context, s))
+                    #self.tlprob returns the log of the probability, so it must be negated to be the cost
+                    cost_of_transition = -self.tlprob(context, s)
+                    cost_of_context = self.get_viterbi_value(context, step) + cost_of_transition
                     if last_state is None:
                         last_state = context
                         last_state_cost = cost_of_context
                     elif cost_of_context < last_state_cost:
                         last_state = context
                         last_state_cost = cost_of_context
-                cost_total = -self.elprob(s, t) + last_state_cost
+                cost_total = cost_given_word + last_state_cost
                 #Update viterbi and backpointer with the cost and last_state of the next step.
                 self.viterbi[s].append(cost_total)
                 self.backpointer[s].append(last_state)
-                #We have now gone one further step in the viterbi algorithm
-                step += 1
+            #We have now gone one further step in the viterbi algorithm
+            step += 1
 
         # TODO
         # Add a termination step with cost based solely on cost of transition to </s> , end of sentence.
         termination_state = "</s>"
+        before_termination_state = None
+        before_termination_cost = 0
         for s in self.states:
-            cost_of_context = -self.get_viterbi_value(s, step) - self.tlprob(s, termination_state)
+            cost_of_context = self.get_viterbi_value(s, step) - self.tlprob(s, termination_state)
             #The chance that the termination symbol will be used at the sentence end is 100%, meaning cost is 0
             cost_total = cost_of_context
             #Add this cost to the next step in the viterbi
             self.viterbi[s].append(cost_total)
-            #Todo: Will this screw up everything??
+            if before_termination_state is None or cost_total < before_termination_cost:
+                before_termination_state = s
+                before_termination_cost = cost_total
+        step += 1
+        self.viterbi[termination_state] = before_termination_cost
+        self.backpointer[termination_state]  = before_termination_state
 
         # TODO
         # Reconstruct the tag sequence using the backpointer list.
         # Return the tag sequence corresponding to the best path as a list.
         # The order should match that of the words in the sentence.
-        #tags = ... # fixme
 
+        #Start with the backpointer for the termination variable. From there work out the backpointer values to get
+        #the tags.
+        last_tag = before_termination_state
+        tags.append(last_tag)
+        for i in range(len(self.backpointer[last_tag]) - 1, 0, -1):
+            last_tag = self.get_backpointer_value(last_tag, i)
+            tags.append(last_tag)
+        #Tags is now in reverse order. Fix that
+        tags = tags[::-1]
         return tags
 
 
@@ -338,7 +355,7 @@ def answers():
            train_data_universal, model, test_size, train_size, ttags, \
            correct, incorrect, accuracy, \
            good_tags, bad_tags, answer4b, answer5
-    
+
     # Load the Brown corpus with the Universal tag set.
     tagged_sentences_universal = brown.tagged_sents(categories='news', tagset='universal')
 
@@ -381,7 +398,7 @@ def answers():
     ######
     s='the cat in the hat came back'.split()
     model.initialise(s[0])
-    ttags = [] # fixme
+    ttags = model.tag(s)
     print("Tagged a trial sentence:\n  %s"%list(zip(s,ttags)))
 
     v_sample=model.get_viterbi_value('VERB',5)
@@ -404,11 +421,11 @@ def answers():
 
         for ((word,gold),tag) in zip(sentence,tags):
             if tag == gold:
-                pass # fix me
+                correct += 1
             else:
-                pass # fix me
+                incorrect += 1
 
-    accuracy = 0.0 # fix me
+    accuracy = (correct / (correct + incorrect)) * 100
     print('Tagging accuracy for test set of %s sentences: %.4f'%(test_size,accuracy))
 
     # Print answers for 4b, 5 and 6
