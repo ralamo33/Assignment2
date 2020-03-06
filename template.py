@@ -200,7 +200,7 @@ class HMM:
                                  "before tag.")
         #ToDO: Verb at step 5 should cost 56
         #The step that self.viterbi and self.backpointer are currently on
-        step = len(self.backpointer["NOUN"]) - 1
+        step = 1
         for t in observations:
             for s in self.states:
                 cost_given_word = -self.elprob(s, t)
@@ -234,12 +234,12 @@ class HMM:
             #The chance that the termination symbol will be used at the sentence end is 100%, meaning cost is 0
             cost_total = cost_of_context
             #Add this cost to the next step in the viterbi
-            self.viterbi[s].append(cost_total)
+            #self.viterbi[s].append(cost_total)
             if before_termination_state is None or cost_total < before_termination_cost:
                 before_termination_state = s
                 before_termination_cost = cost_total
         step += 1
-        self.viterbi[termination_state] = before_termination_cost
+        #self.viterbi[termination_state] = before_termination_cost
         self.backpointer[termination_state]  = before_termination_state
 
         # TODO
@@ -276,7 +276,8 @@ class HMM:
         :return: The value (a cost) for state as of step
         :rtype: float
         """
-        return self.viterbi[state][step]
+        answer = self.viterbi[state][step - 1]
+        return answer
 
     # Access function for testing the backpointer data structure
     # For example model.get_backpointer_value('VERB',2) might be 'NOUN'
@@ -293,7 +294,7 @@ class HMM:
         :return: The state name to go back to at step-1
         :rtype: str
         """
-        return self.backpointer[state][step]
+        return self.backpointer[state][step - 1]
 
 def answer_question4b():
     """
