@@ -69,7 +69,6 @@ class HMM:
             for item in d:
                 flat_data.append(item)
         emission_FD = nltk.ConditionalFreqDist(flat_data)
-        #Should I be using emission_FD for the FreqDistributions???/
         self.emission_PD = nltk.ConditionalProbDist(emission_FD, self.LidstoneProbDistFactory)
         self.states = list(self.emission_PD.keys())
         return self.emission_PD, self.states
@@ -106,10 +105,7 @@ class HMM:
         :return: The transition probability distribution
         :rtype: ConditionalProbDist
         """
-#        raise NotImplementedError('HMM.transition_model')
-        # TODO: prepare the data
         data = []
-
         # The data object should be an array of tuples of conditions and observations,
         # in our case the tuples will be of the form (tag_(i),tag_(i+1)).
         # DON'T FORGET TO ADD THE START SYMBOL </s> and the END SYMBOL </s>
@@ -122,7 +118,6 @@ class HMM:
                     data.append((tag, s[i + 1][1]))
                 else:
                     data.append((tag, "</s>"))
-        # TODO compute the transition model
         transition_FD = nltk.ConditionalFreqDist(data)
         self.transition_PD = nltk.ConditionalProbDist(transition_FD, self.LidstoneProbDistFactory)
 
@@ -179,6 +174,7 @@ class HMM:
             #tlprob and elprob return positive logarithms of the probability, they must be negated to become costs.
             self.viterbi.update({state : [-self.tlprob(start_state, state) - self.elprob(state, observation)]})
             self.backpointer.update({state : [start_state]})
+        pass
 
 
     # Tag a new sentence using the trained model and already initialised data structures.
