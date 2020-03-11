@@ -69,12 +69,13 @@ class HMM:
             for item in d:
                 flat_data.append(item)
         emission_FD = nltk.ConditionalFreqDist(flat_data)
+        #Should I be using emission_FD for the FreqDistributions???/
         self.emission_PD = nltk.ConditionalProbDist(emission_FD, self.LidstoneProbDistFactory)
         self.states = list(self.emission_PD.keys())
         return self.emission_PD, self.states
 
-    def LidstoneProbDistFactory(self, freqdist, gamma=0.01, extra_bins=1):
-        return nltk.LidstoneProbDist(freqdist, gamma, freqdist.B() + extra_bins)
+    def LidstoneProbDistFactory(self, freqdist):
+        return nltk.LidstoneProbDist(freqdist, .01, freqdist.B() + 1)
 
 
     # Access function for testing the emission model
@@ -105,7 +106,10 @@ class HMM:
         :return: The transition probability distribution
         :rtype: ConditionalProbDist
         """
+#        raise NotImplementedError('HMM.transition_model')
+        # TODO: prepare the data
         data = []
+
         # The data object should be an array of tuples of conditions and observations,
         # in our case the tuples will be of the form (tag_(i),tag_(i+1)).
         # DON'T FORGET TO ADD THE START SYMBOL </s> and the END SYMBOL </s>
@@ -118,6 +122,7 @@ class HMM:
                     data.append((tag, s[i + 1][1]))
                 else:
                     data.append((tag, "</s>"))
+        # TODO compute the transition model
         transition_FD = nltk.ConditionalFreqDist(data)
         self.transition_PD = nltk.ConditionalProbDist(transition_FD, self.LidstoneProbDistFactory)
 
@@ -174,7 +179,6 @@ class HMM:
             #tlprob and elprob return positive logarithms of the probability, they must be negated to become costs.
             self.viterbi.update({state : [-self.tlprob(start_state, state) - self.elprob(state, observation)]})
             self.backpointer.update({state : [start_state]})
-        pass
 
 
     # Tag a new sentence using the trained model and already initialised data structures.
@@ -196,7 +200,8 @@ class HMM:
                                  "before tag.")
         #ToDO: Verb at step 5 should cost 56
         #The step that self.viterbi and self.backpointer are currently on
-        step = 1
+        step = 0
+        observations = observations[1::]
         for t in observations:
             for s in self.states:
                 cost_given_word = -self.elprob(s, t)
@@ -272,7 +277,7 @@ class HMM:
         :return: The value (a cost) for state as of step
         :rtype: float
         """
-        answer = self.viterbi[state][step - 1]
+        answer = self.viterbi[state][step]
         return answer
 
     # Access function for testing the backpointer data structure
@@ -290,7 +295,7 @@ class HMM:
         :return: The state name to go back to at step-1
         :rtype: str
         """
-        return self.backpointer[state][step - 1]
+        return self.backpointer[state][step]
 
 def answer_question4b():
     """
