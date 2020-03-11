@@ -24,6 +24,9 @@ if map_tag('brown', 'universal', 'NR-TL') != 'NOUN':
     tm=tagset_mapping('en-brown','universal')
     tm['NR-TL']=tm['NR-TL-HL']='NOUN'
 
+def LidstoneProbDistFactory(freqdist):
+    return nltk.LidstoneProbDist(freqdist, .01, freqdist.B() + 1)
+
 class HMM:
     def __init__(self, train_data, test_data):
         """
@@ -70,12 +73,9 @@ class HMM:
                 flat_data.append(item)
         emission_FD = nltk.ConditionalFreqDist(flat_data)
         #Should I be using emission_FD for the FreqDistributions???/
-        self.emission_PD = nltk.ConditionalProbDist(emission_FD, self.LidstoneProbDistFactory)
+        self.emission_PD = nltk.ConditionalProbDist(emission_FD, LidstoneProbDistFactory)
         self.states = list(self.emission_PD.keys())
         return self.emission_PD, self.states
-
-    def LidstoneProbDistFactory(self, freqdist):
-        return nltk.LidstoneProbDist(freqdist, .01, freqdist.B() + 1)
 
 
     # Access function for testing the emission model
@@ -124,7 +124,7 @@ class HMM:
                     data.append((tag, "</s>"))
         # TODO compute the transition model
         transition_FD = nltk.ConditionalFreqDist(data)
-        self.transition_PD = nltk.ConditionalProbDist(transition_FD, self.LidstoneProbDistFactory)
+        self.transition_PD = nltk.ConditionalProbDist(transition_FD, LidstoneProbDistFactory)
 
         return self.transition_PD
 
@@ -198,7 +198,6 @@ class HMM:
         if self.backpointer == None or self.viterbi == None:
             raise AttributeError("Either backpointer or viterbi have not been intialized yet, remember to run initalise"
                                  "before tag.")
-        #ToDO: Verb at step 5 should cost 56
         #The step that self.viterbi and self.backpointer are currently on
         step = 0
         observations = observations[1::]
@@ -365,7 +364,7 @@ def answers():
     test_size = 500
     train_size = len(tagged_sentences_universal) - 500
 
-    test_data_universal = tagged_sentences_universal[-500:]
+    test_data_universal = tagged_sentences_universal[-test_size::]
     train_data_universal = tagged_sentences_universal[:-500]
 
     if hashlib.md5(''.join(map(lambda x:x[0],train_data_universal[0]+train_data_universal[-1]+test_data_universal[0]+test_data_universal[-1])).encode('utf-8')).hexdigest()!='164179b8e679e96b2d7ff7d360b75735':
@@ -428,7 +427,7 @@ def answers():
                 incorrect += 1
 
     accuracy = (correct / (correct + incorrect)) * 100
-    print('Tagging accuracy for test set of %s sentences: %.4f'%(test_size,accuracy))
+    print('Tagging accuracy for test set of %s sentences: %.4f'% (test_size, accuracy))
 
     # Print answers for 4b, 5 and 6
     bad_tags, good_tags, answer4b = answer_question4b()

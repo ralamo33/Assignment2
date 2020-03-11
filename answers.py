@@ -1,7 +1,7 @@
 a1a=['.', 'ADJ', 'ADP', 'ADV', 'CONJ', 'DET', 'NOUN', 'NUM', 'PRON', 'PRT', 'VERB', 'X']
 a1b=2649
 a1c=12.05988565013656
-a1d='method'
+a1d='function'
 a2a=13
 a2b=2.4630453700815003
 a4a3=86.89827219809665
