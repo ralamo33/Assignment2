@@ -106,10 +106,7 @@ class HMM:
         :return: The transition probability distribution
         :rtype: ConditionalProbDist
         """
-#        raise NotImplementedError('HMM.transition_model')
-        # TODO: prepare the data
         data = []
-
         # The data object should be an array of tuples of conditions and observations,
         # in our case the tuples will be of the form (tag_(i),tag_(i+1)).
         # DON'T FORGET TO ADD THE START SYMBOL </s> and the END SYMBOL </s>
@@ -122,10 +119,8 @@ class HMM:
                     data.append((tag, s[i + 1][1]))
                 else:
                     data.append((tag, "</s>"))
-        # TODO compute the transition model
         transition_FD = nltk.ConditionalFreqDist(data)
         self.transition_PD = nltk.ConditionalProbDist(transition_FD, LidstoneProbDistFactory)
-
         return self.transition_PD
 
     # Access function for testing the transition model
@@ -193,7 +188,6 @@ class HMM:
         :type observations: list(str)
         :return: List of tags corresponding to each word of the input
         """
-#        raise NotImplementedError('HMM.tag')
         tags = []
         if self.backpointer == None or self.viterbi == None:
             raise AttributeError("Either backpointer or viterbi have not been intialized yet, remember to run initalise"
@@ -223,8 +217,6 @@ class HMM:
                 self.backpointer[s].append(last_state)
             #We have now gone one further step in the viterbi algorithm
             step += 1
-
-        # TODO
         # Add a termination step with cost based solely on cost of transition to </s> , end of sentence.
         termination_state = "</s>"
         before_termination_state = None
@@ -241,12 +233,9 @@ class HMM:
         step += 1
         #self.viterbi[termination_state] = before_termination_cost
         self.backpointer[termination_state]  = before_termination_state
-
-        # TODO
         # Reconstruct the tag sequence using the backpointer list.
         # Return the tag sequence corresponding to the best path as a list.
         # The order should match that of the words in the sentence.
-
         #Start with the backpointer for the termination variable. From there work out the backpointer values to get
         #the tags.
         last_tag = before_termination_state
@@ -257,8 +246,6 @@ class HMM:
         #Tags is now in reverse order. Fix that
         tags = tags[::-1]
         return tags
-
-
 
     # Access function for testing the viterbi data structure
     # For example model.get_viterbi_value('VERB',2) might be 6.42
@@ -303,16 +290,16 @@ def answer_question4b():
     :rtype: list(tuple(str,str)), list(tuple(str,str)), str
     :return: your answer [max 280 chars]
     """
-    raise NotImplementedError('answer_question4b')
-
     # One sentence, i.e. a list of word/tag pairs, in two versions
     #  1) As tagged by your HMM
     #  2) With wrong tags corrected by hand
-    tagged_sequence = 'fixme'
-    correct_sequence = 'fixme'
+    tagged_sequence = [("I'm", 'X'), ('ruddy', 'X'), ('lazy', 'X'), (',', '.'), ('and', 'CONJ'), ("I'm", 'PRT'), ('getting', 'VERB'), ('on', 'ADP'), ('in', 'ADP'), ('years', 'NOUN'), ('.', '.')]
+    correct_sequence = [("I'm", 'PRT'), ('ruddy', 'ADV'), ('lazy', 'ADJ'), (',', '.'), ('and', 'CONJ'), ("I'm", 'PRT'), ('getting', 'VERB'), ('on', 'PRT'), ('in', 'ADP'), ('years', 'NOUN'), ('.', '.')]
     # Why do you think the tagger tagged this example incorrectly?
-    answer =  inspect.cleandoc("""\
-    fill me in""")[0:280]
+    answer =  inspect.cleandoc("""Guesses PART poorly. Both I'm and on are wrong. Perhaps PART is unlikely. Ruddy is 
+    likely rare slang, which is why corpus assigns ADV not ADJ. With low P(w|t) ruddy was given X because of previous X.
+     Previous X made lazy X, X's stop after . tag. P(X|X) is probably high
+    """)[0:280]
 
     return tagged_sequence, correct_sequence, answer
 
@@ -327,7 +314,7 @@ def answer_question5():
     :rtype: str
     :return: your answer [max 500 chars]
     """
-    raise NotImplementedError('answer_question5')
+#    raise NotImplementedError('answer_question5')
 
     return inspect.cleandoc("""\
     fill me in""")[0:500]
@@ -341,10 +328,14 @@ def answer_question6():
     :rtype: str
     :return: your answer [max 500 chars]
     """
-    raise NotImplementedError('answer_question6')
+    #raise NotImplementedError('answer_question6')
 
     return inspect.cleandoc("""\
-    fill me in""")[0:500]
+If word is outside lexical coverage, assign it most likely tag based on surrounding
+tags. Then check whether the sentence is well formed. If not, try again with the next most likely
+tag. Repeat x times, x will become a variable to optimize. This should do better than
+the original parser, which has no information to guess an unknown word's tags. If it chooses to allow all possible tags,
+ false positives. If it limits possibilities, false negatives. Must make arbitrary decision.""")[0:500]
 
 # Useful for testing
 def isclose(a, b, rel_tol=1e-09, abs_tol=0.0):
@@ -410,23 +401,33 @@ def answers():
     if not (type(b_sample)==str and b_sample in model.states):
            print('backpointer value (%s) must be a state name'%b_sample,file=sys.stderr)
 
-
     # check the model's accuracy (% correct) using the test set
     correct = 0
     incorrect = 0
-
+    counter = 0
     for sentence in test_data_universal:
         s = [word.lower() for (word, tag) in sentence]
         model.initialise(s[0])
         tags = model.tag(s)
-
+        is_bad_sentence = False
         for ((word,gold),tag) in zip(sentence,tags):
             if tag == gold:
                 correct += 1
             else:
+                is_bad_sentence = True
                 incorrect += 1
-
-    accuracy = (correct / (correct + incorrect)) * 100
+        if is_bad_sentence and counter < 10:
+            gold_sentence = []
+            actual = []
+            counter += 1
+            for ((word, gold), tag) in zip(sentence, tags):
+                gold_sentence.append((word, gold))
+                actual.append((word, tag))
+            print("Actual")
+            print(actual)
+            print("Gold")
+            print(gold_sentence)
+    accuracy = correct / (correct + incorrect)
     print('Tagging accuracy for test set of %s sentences: %.4f'% (test_size, accuracy))
 
     # Print answers for 4b, 5 and 6
@@ -445,10 +446,10 @@ def answers():
     print(answer6[:500])
 
 if __name__ == '__main__':
-#    if len(sys.argv)>1 and sys.argv[1] == '--answers':
+    if len(sys.argv)>1 and sys.argv[1] == '--answers':
         import adrive2_embed
         from autodrive_embed import run, carefulBind
         with open("userErrs.txt","w") as errlog:
             run(globals(),answers,adrive2_embed.a2answers,errlog)
-#    else:
-#        answers()
+    else:
+        answers()
