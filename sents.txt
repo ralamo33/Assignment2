@@ -1,0 +1,848 @@
+---
+['``', 'My', 'taste', 'is', ('gaudy', 'ADV', 'ADJ'), '.']
+---
+["I'm", 'useless', 'for', 'anything', ('but', 'CONJ', 'ADP'), ('racing', 'ADJ', 'VERB'), 'cars', '.']
+---
+[("I'm", 'X', 'PRT'), ('ruddy', 'X', 'ADV'), ('lazy', 'X', 'ADJ'), ',', 'and', "I'm", 'getting', ('on', 'ADP', 'PRT'), 'in', 'years', '.']
+---
+['It', 'gets', 'so', ('frustrating', 'ADV', 'ADJ'), ',', 'but', 'then', 'again', 'I', "don't", 'know', 'what', 'I', 'could', 'do', 'if', 'I', 'gave', 'up', 'racing', "''", '.']
+---
+['Has', ('Moss', 'ADP', 'NOUN'), 'no', ('stirling', 'X', 'ADJ'), ('virtues', 'X', 'NOUN'), '?', '?']
+---
+['One', 'of', ('Nikita', 'X', 'NOUN'), ("Khrushchev's", 'X', 'NOUN'), ('most', 'X', 'ADV'), ('enthusiastic', 'X', 'ADJ'), ('eulogizers', 'X', 'NOUN'), ',', 'the', ("U.S.S.R.'s", 'X', 'NOUN'), ('daily', 'X', 'ADJ'), ('Izvestia', 'X', 'NOUN'), ',', ('enterprisingly', 'X', 'ADV'), ('interviewed', 'X', 'VERB'), ('Red-prone', 'X', 'ADJ'), ('Comedian', 'X', 'NOUN'), ('Charlie', 'X', 'NOUN'), ('Chaplin', 'X', 'NOUN'), 'at', 'his', 'Swiss', 'villa', ',', 'where', 'he', 'has', 'been', 'in', ('self-exile', 'X', 'NOUN'), ('since', 'X', 'ADP'), ('1952', 'X', 'NUM'), '.']
+---
+[('Chaplin', 'PRON', 'NOUN'), ',', '71', ',', 'who', 'met', 'K.', 'when', 'the', 'Soviet', 'boss', 'visited', 'England', 'in', '1956', ',', ('confided', 'ADV', 'VERB'), 'that', 'he', 'hopes', 'to', 'visit', 'Russia', 'some', 'time', 'this', 'summer', ('because', 'ADV', 'ADP'), '``', 'I', 'have', ('marveled', 'ADV', 'VERB'), 'at', 'your', 'grandiose', 'experiment', 'and', 'I', 'believe', 'in', 'your', 'future', "''", '.']
+---
+[('Then', 'ADV', 'ADJ'), 'Charlie', 'spooned', 'out', 'some', 'quick', 'impressions', 'of', 'the', 'Nikita', 'he', 'had', ('glimpsed', 'ADV', 'VERB'), ':', '``', 'I', 'was', ('captivated', 'ADV', 'VERB'), 'by', 'his', 'humor', ',', 'frankness', 'and', 'good', 'nature', 'and', 'by', 'his', ('kind', 'NOUN', 'ADJ'), ',', 'strong', 'and', 'somewhat', 'sly', 'face', "''", '.']
+---
+['G.', 'David', 'Thompson', 'is', 'one', 'of', 'those', 'names', 'known', 'to', 'the', 'stewards', 'of', ('transatlantic', 'DET', 'ADJ'), 'jetliners', 'and', 'to', 'doormen', 'in', ("Europe's", 'DET', 'NOUN'), 'best', 'hotels', ',', 'but', 'he', 'is', 'somewhat', 'of', 'an', 'enigma', 'to', 'most', 'people', 'in', 'his', 'own', 'home', 'town', 'of', 'Pittsburgh', '.']
+---
+[('There', 'PRT', 'ADV'), 'the', ('name', 'X', 'NOUN'), ('vaguely', 'X', 'ADV'), ('connotes', 'X', 'VERB'), ('new-rich', 'X', 'ADJ'), ('wealth', 'X', 'NOUN'), ',', 'a', 'reputation', 'for', ('eccentricity', 'NUM', 'NOUN'), ',', 'and', 'an', 'ardor', 'for', ('collecting', 'DET', 'VERB'), 'art', '.']
+---
+['Last', 'week', ',', 'in', 'the', 'German', 'city', 'of', 'Dusseldorf', ',', 'G.', 'David', 'Thompson', 'was', 'making', ('headlines', 'ADV', 'NOUN'), ('that', 'PRON', 'DET'), 'could', 'well', 'give', 'Pittsburgh', 'pause', '.']
+---
+['On', 'display', 'were', ('343', 'X', 'NUM'), ('first-class', 'X', 'ADJ'), 'paintings', 'and', 'sculptures', 'from', 'his', 'fabled', 'collection', '--', 'and', 'every', 'single', 'one', 'of', 'them', 'was', 'up', 'for', 'sale', '.']
+---
+['Like', ("Philadelphia's", 'DET', 'NOUN'), 'late', 'Dr.', 'Albert', 'C.', 'Barnes', 'who', 'kept', 'his', 'own', 'great', 'collection', 'closed', 'to', 'the', 'general', 'public', '(', 'Time', ',', 'Jan.', '2', ')', ',', 'Thompson', ',', 'at', '61', ',', 'is', 'something', 'of', 'a', 'legend', 'in', 'his', 'own', 'lifetime', '.']
+---
+['He', 'made', 'his', 'fortune', 'during', 'World', 'War', '2', ',', 'when', 'he', 'took', ('over', 'ADP', 'PRT'), 'a', 'number', 'of', ('dying', 'DET', 'VERB'), 'steel', 'plants', 'and', 'kept', 'them', 'alive', 'until', 'the', 'boom', '.']
+---
+['He', 'was', 'able', 'to', 'smell', 'a', 'bargain', '--', 'and', 'a', 'masterpiece', '--', 'a', 'continent', 'away', ',', 'and', 'the', 'Museum', 'of', ('Modern', 'X', 'ADJ'), ("Art's", 'X', 'NOUN'), ('Alfred', 'X', 'NOUN'), ('Barr', 'X', 'NOUN'), 'said', 'of', 'him', ':', '``', 'I', 'have', 'never', 'mentioned', 'a', 'new', 'artist', ('that', 'ADP', 'PRON'), 'Thompson', "didn't", 'know', ('about', 'ADV', 'ADP'), "''", '.']
+---
+['He', 'might', ('barge', 'ADV', 'VERB'), 'into', 'a', 'gallery', ',', 'start', 'haggling', 'over', 'prices', 'without', 'so', ('much', 'ADV', 'ADJ'), 'as', 'a', 'word', 'of', ('greeting', 'NOUN', 'VERB'), '.']
+---
+['He', 'could', 'be', ('lavishly', 'DET', 'ADV'), 'generous', 'with', 'friends', ',', ('cab', 'X', 'NOUN'), ('drivers', 'X', 'NOUN'), ('and', 'X', 'CONJ'), ('bellboys', 'X', 'NOUN'), ',', 'but', 'with', 'dealers', 'he', 'was', 'tough', '.']
+---
+['He', 'bought', 'up', ('Cezannes', 'VERB', 'NOUN'), ',', ('Braques', 'NUM', 'NOUN'), ',', ('Matisses', 'NUM', 'NOUN'), ',', ('Legers', 'NUM', 'NOUN'), ',', 'a', 'splendid', ('Picasso', 'ADJ', 'NOUN'), 'series', ',', ('more', 'ADV', 'ADJ'), 'than', '70', ('Giacometti', 'ADJ', 'NOUN'), 'sculptures', '.']
+---
+['All', 'these', 'he', 'hung', 'in', 'his', 'burglarproof', 'home', 'called', "Stone's", ('Throw', 'VERB', 'NOUN'), ',', 'outside', 'Pittsburgh', ',', 'and', 'only', 'people', 'he', 'liked', 'and', ('trusted', 'ADV', 'VERB'), 'ever', 'got', 'to', 'see', 'them', '.']
+---
+['Pittsburgh', 'turned', 'him', 'down', ',', 'just', 'as', 'Pittsburgh', 'society', 'had', 'been', ('snubbing', 'ADV', 'VERB'), 'him', 'for', 'years', '.']
+---
+['He', 'went', 'then', 'to', 'a', ('40-year-old', 'X', 'ADJ'), ('Basel', 'X', 'NOUN'), ('art', 'X', 'NOUN'), ('dealer', 'X', 'NOUN'), ('named', 'X', 'VERB'), ('Ernst', 'X', 'NOUN'), ('Beyeler', 'X', 'NOUN'), ',', 'with', 'whom', 'he', 'had', 'long', 'been', 'trading', 'pictures', '.']
+---
+['Last', 'year', ('Beyeler', 'X', 'NOUN'), ('arranged', 'X', 'VERB'), 'to', 'sell', ('$1,500,000', 'DET', 'NOUN'), ('worth', 'NOUN', 'ADJ'), 'of', ('Klees', 'NUM', 'NOUN'), 'to', 'the', 'state', 'of', 'North', 'Rhine-Westphalia', ',', 'which', 'will', ('house', 'NOUN', 'VERB'), 'them', 'in', 'a', 'museum', 'that', 'is', 'yet', 'to', 'be', 'built', '.']
+---
+['Last', 'week', ('most', 'ADV', 'ADJ'), 'of', 'the', 'other', 'prizes', ',', 'once', 'offered', 'to', 'Pittsburgh', ',', 'went', 'on', 'the', 'block', '.']
+---
+['At', 'the', 'opening', 'of', 'the', 'Dusseldorf', 'show', ',', ('Thompson', 'X', 'NOUN'), ('himself', 'X', 'PRON'), ('scarcely', 'X', 'ADV'), ('glanced', 'X', 'VERB'), 'at', 'the', 'treasures', 'that', 'he', 'was', 'seeing', 'together', 'for', 'the', 'last', 'time', '.']
+---
+['Some', ('observers', 'X', 'NOUN'), ('speculated', 'X', 'VERB'), 'that', 'this', ('might', 'VERB', 'NOUN'), 'be', 'his', 'revenge', 'on', 'his', 'home', 'town', '.']
+---
+['Thompson', 'himself', 'said', ':', '``', 'I', 'want', 'to', 'enjoy', 'once', 'more', 'the', 'pleasure', 'of', ('bare', 'DET', 'ADJ'), 'walls', 'waiting', 'for', 'new', 'pictures', "''", '.']
+---
+['The', 'University', 'of', 'Georgia', 'has', 'long', 'claimed', 'that', 'it', 'does', 'not', ('discriminate', 'ADV', 'VERB'), 'against', 'any', 'applicant', 'on', 'the', 'basis', 'of', 'race', 'or', 'color', '.']
+---
+['But', 'in', 'all', 'its', ('175', 'ADJ', 'NUM'), 'years', ',', 'not', 'a', 'single', 'Negro', 'student', 'has', 'entered', 'its', 'classrooms', '.']
+---
+['Last', 'week', 'Federal', 'District', 'Judge', 'William', 'A.', ('Bootle', 'PRT', 'NOUN'), 'ordered', 'the', 'university', 'to', 'admit', 'immediately', 'a', '``', 'qualified', "''", 'Negro', 'boy', 'and', 'girl', '.']
+---
+['Their', 'entry', 'will', ('crack', 'ADP', 'VERB'), 'the', 'total', 'segregation', 'of', 'all', 'public', 'education', ',', 'from', ('kindergarten', 'NUM', 'NOUN'), 'through', 'graduate', 'school', ',', 'in', 'Georgia', '--', 'and', 'in', ('Alabama', 'NUM', 'NOUN'), ',', 'Mississippi', 'and', 'South', 'Carolina', ('as', 'ADP', 'ADV'), 'well', '.']
+---
+['For', '18', 'months', ',', ('Hamilton', 'X', 'NOUN'), ('Holmes', 'X', 'NOUN'), ',', '19', ',', 'and', ('Charlayne', 'ADJ', 'NOUN'), 'Hunter', ',', '18', ',', 'had', 'tried', 'to', 'get', 'into', 'the', 'university', '.']
+---
+['They', 'graduated', 'together', 'from', "Atlanta's", 'Turner', 'High', 'School', ',', 'where', ('Valedictorian', 'VERB', 'NOUN'), ('Holmes', 'PRT', 'NOUN'), 'was', 'first', 'in', 'the', 'class', 'and', ('Charlayne', 'DET', 'NOUN'), 'third', '.']
+---
+['The', 'university', 'rejected', 'them', 'on', 'a', 'variety', 'of', ('pretexts', 'NUM', 'NOUN'), ',', 'but', 'was', 'careful', 'never', 'to', 'mention', 'the', 'color', 'of', 'their', 'skins', '.']
+---
+[('Holmes', 'PRON', 'NOUN'), 'went', 'to', ("Atlanta's", 'X', 'NOUN'), ('Morehouse', 'X', 'NOUN'), '(', 'Negro', ')', 'College', ',', 'where', 'he', 'is', 'a', 'B', 'student', 'and', 'star', 'halfback', '.']
+---
+[('Charlayne', 'X', 'NOUN'), ('studied', 'X', 'VERB'), ('journalism', 'X', 'NOUN'), ('at', 'X', 'ADP'), ("Detroit's", 'X', 'NOUN'), ('Wayne', 'X', 'NOUN'), 'State', 'University', '.']
+---
+['Last', 'fall', ',', 'after', 'they', 'took', 'their', 'hopes', 'for', 'entering', 'Georgia', 'to', 'court', ',', 'Judge', ('Bootle', 'PRT', 'NOUN'), 'ordered', 'them', 'to', 'apply', 'again', '.']
+---
+[('Charlayne', 'PRON', 'NOUN'), 'was', '``', ('tentatively', 'NUM', 'ADV'), "''", 'admitted', 'for', 'next', 'fall', ',', 'after', 'state', ('investigators', 'PRT', 'NOUN'), 'questioned', 'her', 'white', 'roommate', 'at', 'Wayne', 'State', '.']
+---
+['But', ('Holmes', 'PRON', 'NOUN'), 'was', 'rejected', 'again', '``', 'on', 'the', 'basis', 'of', 'his', 'record', 'and', 'interview', "''", '.']
+---
+['The', 'evidence', 'in', 'court', 'was', 'testimony', 'about', 'the', 'interview', ',', 'which', 'for', ('Holmes', 'PRON', 'NOUN'), 'lasted', 'an', 'hour', ',', 'although', 'at', 'least', 'one', 'white', 'student', 'at', 'Georgia', 'got', ('through', 'ADP', 'PRT'), 'this', 'ritual', ('by', 'ADP', 'ADV'), 'a', 'simple', 'phone', 'conversation', '.']
+---
+[('Holmes', 'PRON', 'NOUN'), 'was', 'asked', 'if', 'he', 'had', 'ever', 'visited', 'a', 'house', 'of', ('prostitution', 'NUM', 'NOUN'), ',', 'or', 'a', '``', ('beatnik', 'X', 'NOUN'), ('parlor', 'X', 'NOUN'), ('or', 'X', 'CONJ'), ('teahouse', 'X', 'NOUN'), "''", '.']
+---
+[('No', 'DET', 'ADV'), ',', 'said', 'he', ',', 'but', 'officials', 'still', 'called', 'him', '``', ('evasive', 'NUM', 'ADJ'), "''", '.']
+---
+['Their', 'reason', ':', ('Holmes', 'PRON', 'NOUN'), 'once', 'paid', 'a', '$20', 'speeding', ('fine', 'ADJ', 'NOUN'), ',', 'had', 'his', 'license', 'suspended', '.']
+---
+['Negro', 'lawyers', 'dug', 'into', 'the', 'records', 'of', '300', 'white', 'students', ',', 'found', 'that', 'many', 'were', 'hardly', ('interviewed', 'ADV', 'VERB'), 'at', 'all', '--', 'and', 'few', 'had', 'academic', 'records', ('as', 'ADP', 'ADV'), 'good', 'as', ('Hamilton', 'X', 'NOUN'), ('Holmes', 'X', 'NOUN'), '.']
+---
+['The', 'real', 'reason', 'for', 'his', 'rejection', ',', 'they', 'argued', ',', 'is', 'the', 'fact', 'that', 'Georgia', 'law', 'automatically', ('cuts', 'NOUN', 'VERB'), ('off', 'ADP', 'PRT'), 'funds', 'for', 'any', ('desegregated', 'ADJ', 'VERB'), 'school', '.']
+---
+['Judge', ("Bootle's", 'CONJ', 'NOUN'), 'decision', ':', '``', 'The', 'two', ('plaintiffs', 'ADV', 'NOUN'), 'are', 'qualified', 'for', 'admission', ('to', 'PRT', 'ADP'), 'said', 'university', 'and', 'would', 'already', 'have', 'been', 'admitted', 'had', 'it', 'not', 'been', 'for', 'their', 'race', 'and', 'color', "''", '.']
+---
+['The', 'state', 'will', ('appeal', 'NOUN', 'VERB'), '--', 'but', 'few', 'think', 'it', 'will', 'actually', 'try', 'to', 'close', 'the', 'university', '.']
+---
+['``', 'Surprised', 'and', 'pleased', "''", ',', 'Students', ('Holmes', '.', 'NOUN'), 'and', 'Hunter', 'may', 'enter', 'the', 'University', 'of', 'Georgia', 'this', 'week', '.']
+---
+[('Catch', 'ADV', 'NOUN'), 'for', 'Chicago']
+---
+['When', 'the', 'University', 'of', ("Chicago's", 'X', 'NOUN'), ('Chancellor', 'X', 'NOUN'), ('Lawrence', 'X', 'NOUN'), ('A.', 'X', 'NOUN'), ('Kimpton', 'X', 'NOUN'), 'submitted', 'his', 'resignation', 'last', 'March', ',', 'a', ('mighty', 'X', 'ADJ'), ('talent', 'X', 'NOUN'), ('hunt', 'X', 'NOUN'), ('gripped', 'X', 'VERB'), ('the', 'X', 'DET'), ('Midway', 'X', 'NOUN'), '.']
+---
+['Such', 'academic', 'statesmen', 'as', 'James', 'B.', ('Conant', 'PRT', 'NOUN'), 'were', 'consulted', '.']
+---
+['Two', 'committees', ('pondered', 'X', 'VERB'), ('375', 'X', 'NUM'), ('possible', 'X', 'ADJ'), ('Kimpton', 'X', 'NOUN'), ('successors', 'X', 'NOUN'), ',', 'including', 'Adlai', 'Stevenson', ',', 'Richard', 'Nixon', ',', 'and', ("Harvard's", 'X', 'NOUN'), ('Dean', 'X', 'NOUN'), ('McGeorge', 'X', 'NOUN'), ('Bundy', 'X', 'NOUN'), '.']
+---
+['The', 'debate', 'led', 'to', 'a', 'decision', 'that', 'Chicago', 'needed', 'neither', 'a', 'big', 'name', 'nor', 'an', 'experienced', 'academic', 'administrator', ',', 'but', 'rather', ',', 'as', ('Trustee', 'DET', 'NOUN'), 'Chairman', 'Glen', 'A.', 'Lloyd', 'put', 'it', ',', '``', 'a', 'top', 'scholar', 'in', 'his', 'own', 'right', "''", '--', 'a', 'bright', 'light', ('to', 'ADP', 'PRT'), ('lure', 'DET', 'VERB'), 'other', 'top', 'scholars', 'to', 'Chicago', '.']
+---
+['Last', 'week', 'Chicago', ('happily', 'PRT', 'ADV'), 'found', 'its', 'top', 'scholar', 'in', ("Caltech's", 'PRON', 'NOUN'), 'acting', 'dean', 'of', 'the', 'faculty', ':', ('dynamic', 'X', 'ADJ'), ('Geneticist', 'X', 'NOUN'), ('George', 'X', 'NOUN'), ('Wells', 'X', 'NOUN'), ('Beadle', 'X', 'NOUN'), ',', '57', ',', 'who', 'shared', 'the', '1958', 'Nobel', 'Prize', 'in', 'medicine', 'and', ('physiology', 'X', 'NOUN'), ('for', 'X', 'ADP'), ('discovering', 'X', 'VERB'), ('how', 'X', 'ADV'), ('genes', 'X', 'NOUN'), ('affect', 'X', 'VERB'), ('heredity', 'X', 'NOUN'), ('by', 'X', 'ADP'), ('controlling', 'X', 'VERB'), ('cell', 'X', 'NOUN'), ('chemistry', 'X', 'NOUN'), '(', 'Time', ',', 'Cover', ',', 'July', '14', ',', '1958', ')', '.']
+---
+['It', 'fell', 'to', ('Chancellor', 'X', 'NOUN'), ('Kimpton', 'X', 'NOUN'), ',', 'now', 'a', 'Standard', 'Oil', '(', 'Indiana', ')', 'executive', ',', 'to', 'spend', 'his', ('nine-year', 'X', 'ADJ'), ('reign', 'X', 'NOUN'), ('tidying', 'X', 'VERB'), 'up', 'Chicago', 'after', 'the', ('21-year', 'X', 'ADJ'), ('typhoon', 'X', 'NOUN'), ('of', 'X', 'ADP'), ('Idealist', 'X', 'NOUN'), ('Robert', 'X', 'NOUN'), ('Maynard', 'X', 'NOUN'), ('Hutchins', 'X', 'NOUN'), '.']
+---
+['He', 'threw', 'out', 'some', 'of', ("Hutchins'", 'X', 'NOUN'), ('more', 'X', 'ADV'), ('wildly', 'X', 'ADV'), ('experimental', 'X', 'ADJ'), ('courses', 'X', 'NOUN'), ',', ('raised', 'X', 'VERB'), ('sagging', 'X', 'VERB'), ('undergraduate', 'X', 'ADJ'), ('enrollment', 'X', 'NOUN'), ('to', 'X', 'ADP'), ('2,100', 'X', 'NUM'), ',', 'nearly', 'doubled', ('endowment', 'VERB', 'NOUN'), ('to', 'PRT', 'ADP'), ('$139.3', 'VERB', 'NOUN'), 'million', '.']
+---
+['But', 'though', ('Kimpton', 'PRON', 'NOUN'), 'put', 'Chicago', 'in', 'what', 'he', 'felt', 'was', 'working', 'order', ',', 'some', 'old', ('grads', 'PRT', 'NOUN'), 'feel', 'that', 'it', 'still', 'needs', 'the', 'kind', 'of', 'lively', 'teachers', 'who', 'filled', 'it', 'in', 'the', ('heady', 'X', 'ADJ'), ('Hutchins', 'X', 'NOUN'), ('era', 'X', 'NOUN'), '.']
+---
+['At', ('Caltech', 'NUM', 'NOUN'), ',', ('Geneticist', 'X', 'NOUN'), ('Beadle', 'X', 'NOUN'), 'has', 'stuck', 'close', 'to', 'his', 'research', 'as', 'head', 'of', 'the', "school's", 'famous', 'biology', 'division', 'since', '1946', '.']
+---
+['But', 'he', 'has', 'shown', 'a', ('sixth-sense', 'ADJ', 'NOUN'), 'ability', ('to', 'ADP', 'PRT'), ('spot', 'NOUN', 'VERB'), ',', ('recruit', 'X', 'VERB'), ('and', 'X', 'CONJ'), ('excite', 'X', 'VERB'), ('able', 'X', 'ADJ'), ('researchers', 'X', 'NOUN'), ',', 'and', 'has', 'developed', ('unexpected', 'DET', 'ADJ'), 'talents', 'in', 'fund', 'raising', 'and', ('speech-making', 'NUM', 'NOUN'), '.']
+---
+[('Beadle', 'PRON', 'NOUN'), 'is', 'even', ('that', 'ADP', 'DET'), 'rare', 'scientist', 'who', 'takes', 'an', 'interest', 'in', 'money', 'matters', ';', ';']
+---
+['he', ('avidly', 'VERB', 'ADV'), 'reads', 'the', 'Wall', 'Street', 'Journal', ',', 'and', 'took', ('delight', 'VERB', 'NOUN'), 'in', 'driving', 'a', '$250', ('model', 'NOUN', 'VERB'), ('A', 'DET', 'NOUN'), 'Ford', 'for', '22', 'years', ',', 'then', 'selling', 'it', 'for', ('$300', 'NUM', 'NOUN'), '.']
+---
+['A', ('philosopher', 'ADJ', 'NOUN'), ('may', 'NOUN', 'VERB'), ('point', 'NOUN', 'VERB'), 'out', 'that', 'the', 'troubles', 'of', 'the', 'Congo', 'began', 'with', 'the', 'old', 'Adam', 'and', 'consequently', 'will', 'never', 'end', '.']
+---
+['The', 'man', 'was', 'King', ('Leopold', 'ADP', 'NOUN'), '2', ',', 'of', 'the', 'Belgians', ',', 'who', 'in', ('1885', 'PRON', 'NUM'), 'concluded', 'that', 'he', 'had', 'better', 'grab', 'a', 'colony', 'while', 'the', 'grabbing', 'was', 'still', 'good', '.']
+---
+['By', 'force', ',', 'he', 'took', 'under', 'his', 'protection', ',', 'or', 'stole', ',', ('900,000', 'CONJ', 'NUM'), 'square', 'miles', 'of', 'wilderness', 'in', 'Central', 'Africa', '.']
+---
+['This', 'is', 'an', 'area', 'nearly', ('as', 'ADP', 'ADV'), 'large', 'as', 'Western', 'Europe', ';', ';']
+---
+['and', 'it', 'was', 'filled', 'then', ('as', 'ADV', 'ADP'), 'now', 'by', ('quarreling', 'X', 'VERB'), ('tribes', 'X', 'NOUN'), 'with', 'no', 'political', 'or', 'historical', 'unity', '.']
+---
+['Its', 'boundaries', 'had', 'nothing', 'to', 'do', 'with', ('geography', 'X', 'NOUN'), ('or', 'X', 'CONJ'), ('ethnic', 'X', 'ADJ'), ('groupings', 'X', 'NOUN'), ';', ';']
+---
+['they', 'were', 'determined', 'by', 'the', 'points', 'at', 'which', ("Leopold's", 'X', 'NOUN'), ('explorers', 'X', 'NOUN'), ('and', 'X', 'CONJ'), ('gunmen', 'X', 'NOUN'), 'got', 'tired', 'of', 'walking', '.']
+---
+['The', 'population', 'of', 'the', 'Congo', 'is', ('13.5', 'ADP', 'NUM'), 'million', ',', 'divided', 'into', 'at', 'least', 'seven', 'major', '``', ('culture', 'X', 'NOUN'), ('clusters', 'X', 'NOUN'), "''", 'and', ('innumerable', 'X', 'ADJ'), ('tribes', 'X', 'NOUN'), ('speaking', 'X', 'VERB'), ('400', 'X', 'NUM'), ('separate', 'X', 'ADJ'), ('dialects', 'X', 'NOUN'), '.']
+---
+['The', 'religions', 'of', 'the', 'people', 'include', 'Christianity', ',', ('Mohammedanism', 'NUM', 'NOUN'), ',', ('paganism', 'NUM', 'NOUN'), ',', ('ancestor', 'X', 'NOUN'), ('worship', 'X', 'NOUN'), ('and', 'X', 'CONJ'), ('animism', 'X', 'NOUN'), '.']
+---
+['The', 'climate', ('ranges', 'NOUN', 'VERB'), 'from', 'the', ('steamily', 'X', 'ADV'), ('equatorial', 'X', 'ADJ'), 'to', 'the', ('temperate', 'NOUN', 'ADJ'), '.']
+---
+['The', ('hospitals', 'X', 'NOUN'), ('contain', 'X', 'VERB'), ('patients', 'X', 'NOUN'), ('trampled', 'X', 'VERB'), 'by', 'elephants', 'or', 'run', 'over', 'by', 'sports', 'cars', '.']
+---
+['To', 'make', 'one', 'nation', ('out', 'PRT', 'ADP'), 'of', 'these', 'disparities', 'would', 'be', 'a', 'problem', 'large', ('enough', 'ADJ', 'ADV'), 'in', 'any', 'case', ';', ';']
+---
+['it', 'has', 'been', 'made', 'far', ('more', 'ADJ', 'ADV'), 'difficult', 'by', 'what', 'the', 'Belgians', 'have', 'done', ',', 'or', 'failed', 'to', 'do', ',', 'in', 'the', 'Congo', 'since', '1885', '.']
+---
+['At', 'first', 'the', 'Belgian', 'royal', 'family', ('administered', 'ADP', 'VERB'), 'the', 'Congo', 'as', 'its', 'own', 'private', 'property', '.']
+---
+['But', 'by', ('1908', 'ADP', 'NUM'), 'its', 'record', 'of', 'brutality', 'had', ('touched', 'ADP', 'VERB'), 'the', 'national', 'conscience', '.']
+---
+['The', 'Belgian', 'government', 'itself', 'took', ('over', 'ADP', 'PRT'), 'administration', ',', ('commencing', 'CONJ', 'VERB'), 'a', 'program', 'of', ('paternalism', 'X', 'NOUN'), ('unmatched', 'X', 'ADJ'), 'in', 'the', 'history', 'of', ('colonialism', 'NUM', 'NOUN'), '.']
+---
+['One', 'definition', 'of', ('paternalism', 'PRON', 'NOUN'), 'is', '``', 'The', 'principle', 'or', 'practice', ',', 'on', 'the', 'part', 'of', 'a', 'government', ',', 'of', 'managing', 'the', 'affairs', 'of', 'a', 'country', 'in', 'the', 'manner', 'of', 'a', 'father', 'dealing', 'with', 'his', 'children', "''", '.']
+---
+['The', 'honor', 'of', 'the', 'Belgians', 'in', 'this', 'matter', 'is', 'not', 'to', 'be', 'questioned', '--', ('only', 'ADV', 'ADJ'), 'their', 'judgment', '.']
+---
+[('Ordinarily', 'ADP', 'ADV'), 'a', 'father', 'permits', 'his', 'children', 'to', 'grow', 'up', 'in', 'due', 'time', '--', 'but', 'when', 'the', 'colony', 'received', ('independence', 'ADV', 'NOUN'), 'in', '1960', 'the', 'Congolese', 'child', ',', 'if', 'one', ('imagines', '.', 'VERB'), 'him', 'to', 'have', 'been', 'born', 'in', '1908', ',', 'was', '52', 'and', 'had', 'until', 'then', 'been', 'treated', 'as', 'an', 'infant', '.']
+---
+['The', 'Belgians', 'were', 'interested', 'primarily', 'in', 'the', 'economic', 'development', 'of', 'the', 'Congo', ',', 'which', 'is', 'rich', 'in', 'copper', ',', ('tin', 'NUM', 'NOUN'), ',', ('cobalt', 'NUM', 'NOUN'), ',', ('manganese', 'NUM', 'NOUN'), ',', 'zinc', ',', 'and', ('uranium', 'NUM', 'NOUN'), ',', 'and', 'cotton', 'and', 'palm', 'oil', '.']
+---
+['The', 'colony', 'was', ('administered', 'ADV', 'VERB'), 'from', ('Brussels', 'NUM', 'NOUN'), ',', 'with', ('neither', 'DET', 'CONJ'), 'the', 'Congolese', 'nor', 'the', 'resident', ('Belgians', 'PRT', 'NOUN'), 'having', 'any', 'vote', '.']
+---
+['In', ('Inside', 'NOUN', 'ADP'), 'Africa', ',', 'John', ('Gunther', 'X', 'NOUN'), ('describes', 'X', 'VERB'), ('one', 'NOUN', 'NUM'), 'of', 'these', ',', 'the', 'Societe', 'Generale', ',', ('as', 'ADV', 'ADP'), '``', 'the', 'kind', 'of', ('colossus', 'DET', 'NOUN'), 'that', 'might', 'be', ('envisaged', 'ADV', 'VERB'), 'if', ',', 'let', 'us', 'say', ',', 'the', 'House', 'of', 'Morgan', ',', ('Anaconda', 'X', 'NOUN'), ('Copper', 'X', 'NOUN'), ',', 'the', 'Mutual', 'Life', 'Insurance', 'Company', 'of', 'New', 'York', ',', 'the', 'Pennsylvania', 'Railroad', ',', 'and', 'various', 'companies', ('producing', 'CONJ', 'VERB'), 'agricultural', 'products', 'were', ('lumped', 'ADV', 'VERB'), 'together', ',', 'with', 'the', 'United', 'States', 'government', 'as', 'a', 'heavy', 'partner', "''", '.']
+---
+['Had', 'they', 'been', 'truly', ('ruthless', 'ADV', 'ADJ'), ',', 'the', 'Belgians', 'might', 'have', ('exploited', 'ADP', 'VERB'), 'the', ('Congolese', 'X', 'NOUN'), ('without', 'X', 'ADP'), ('compassion', 'X', 'NOUN'), '.']
+---
+['They', 'provided', 'a', 'social', 'security', 'system', 'which', 'covered', 'all', 'their', ('African', 'NOUN', 'ADJ'), 'employes', ';', ';']
+---
+['they', 'put', 'much', 'effort', 'into', ('public', 'ADJ', 'NOUN'), 'housing', '.']
+---
+['They', 'also', ('instituted', 'ADP', 'VERB'), 'a', ('ration', 'ADJ', 'NOUN'), 'system', 'under', 'which', 'all', 'employers', 'in', 'the', 'Congo', 'were', 'required', 'to', 'furnish', 'their', 'employes', 'with', 'clothing', 'and', 'adequate', 'food', '.']
+---
+['But', 'instead', 'of', 'delivering', 'the', 'ration', '--', 'either', 'in', 'actual', 'commodities', 'or', 'in', 'cash', '--', 'at', 'intervals', 'of', 'perhaps', 'two', 'weeks', 'or', 'a', 'month', ',', 'the', ('Belgians', 'X', 'NOUN'), ('felt', 'X', 'VERB'), ('obliged', 'X', 'VERB'), 'to', 'dole', 'it', 'out', 'more', 'often', '.']
+---
+['Would', 'not', 'the', 'children', ',', 'if', 'they', 'received', 'all', 'their', 'food', 'on', 'the', 'first', 'day', 'of', 'the', 'month', ',', ('eat', 'CONJ', 'VERB'), 'it', 'up', 'immediately', ',', 'and', 'later', 'go', ('hungry', 'ADV', 'ADJ'), '?', '?']
+---
+['During', 'the', '1950s', 'there', 'were', ('as', 'ADP', 'ADV'), 'many', 'as', ('25,000', 'DET', 'NUM'), 'schools', 'in', 'the', 'Congo', '.']
+---
+['But', 'almost', 'all', 'the', 'schools', 'were', ('primary', 'NOUN', 'ADJ'), '.']
+---
+['The', 'average', ('Congolese', 'PRT', 'NOUN'), 'can', 'do', 'little', 'more', 'than', ('puzzle', 'NUM', 'VERB'), ('out', 'ADP', 'PRT'), 'the', 'meaning', 'of', '``', 'la', 'chatte', "''", 'and', '``', 'le', 'chien', "''", 'and', 'write', 'his', 'name', '.']
+---
+['Some', 'schools', 'were', 'technical', '--', 'the', ('Belgians', 'X', 'NOUN'), ('needed', 'X', 'VERB'), ('carpenters', 'X', 'NOUN'), ('and', 'X', 'CONJ'), ('mechanics', 'X', 'NOUN'), 'to', 'help', 'exploit', 'the', 'land', ',', 'and', 'trained', 'many', '.']
+---
+['But', 'they', 'did', 'not', 'believe', 'in', 'widespread', 'secondary', 'education', ',', 'much', ('less', 'ADV', 'ADJ'), 'in', 'college', '.']
+---
+['It', 'was', 'their', 'conviction', 'that', 'the', 'people', 'should', 'be', '``', 'brought', 'up', 'together', "''", ',', 'a', 'grade', 'at', 'a', 'time', ',', 'until', 'in', 'some', 'indefinite', 'future', 'some', 'might', 'be', 'ready', ('to', 'ADP', 'PRT'), ('tackle', 'NOUN', 'VERB'), 'history', ',', 'economics', 'and', 'political', 'science', '.']
+---
+['Indeed', ',', 'the', 'Belgians', 'discouraged', 'higher', 'education', ',', ('fearing', 'CONJ', 'VERB'), 'the', 'creation', 'of', 'a', ('native', 'X', 'ADJ'), ('intellectual', 'X', 'ADJ'), ('elite', 'X', 'NOUN'), ('which', 'X', 'DET'), ('might', 'X', 'VERB'), ('cause', 'X', 'VERB'), ('unrest', 'X', 'NOUN'), '.']
+---
+['When', 'the', 'Congo', 'received', 'its', 'independence', 'in', '1960', 'there', 'were', ',', 'among', 'its', ('13.5', 'ADJ', 'NUM'), 'million', 'people', ',', 'exactly', '14', 'university', 'graduates', '.']
+---
+['Why', 'did', 'the', ('Belgians', 'X', 'NOUN'), ('grant', 'X', 'VERB'), ('independence', 'X', 'NOUN'), ('to', 'X', 'ADP'), ('a', 'X', 'DET'), ('colony', 'X', 'NOUN'), ('so', 'X', 'ADV'), ('manifestly', 'X', 'ADV'), ('unprepared', 'X', 'ADJ'), 'to', 'accept', 'it', '?', '?']
+---
+['In', 'one', 'large', 'oversimplification', ',', 'it', 'might', 'be', 'said', 'that', 'the', 'Belgians', 'felt', ',', 'far', 'too', ('late', 'ADJ', 'ADV'), ',', 'the', 'gale', 'of', 'nationalism', 'sweeping', 'Africa', '.']
+---
+['They', 'lacked', 'time', 'to', 'prepare', 'the', 'Congo', ',', 'as', 'the', ('British', 'ADJ', 'NOUN'), 'and', 'French', 'had', 'prepared', 'their', 'colonies', '.']
+---
+['The', ('Congolese', 'X', 'NOUN'), ('were', 'X', 'VERB'), ('clamoring', 'X', 'VERB'), 'for', 'their', 'independence', ',', 'even', ('though', 'ADV', 'ADP'), ('most', 'ADV', 'ADJ'), 'were', ('unsure', 'ADP', 'ADJ'), 'what', 'it', 'meant', ';', ';']
+---
+['and', 'in', ('Brussels', 'NUM', 'NOUN'), ',', 'street', 'crowds', 'shouted', ',', '``', 'Pas', 'une', 'goutte', 'de', 'sang', '!', '!']
+---
+['The', 'Belgians', 'would', 'not', 'fight', 'for', 'the', 'privilege', 'of', 'being', 'the', ('detested', 'X', 'VERB'), ('pedagogue', 'X', 'NOUN'), ';', ';']
+---
+[('rather', 'ADV', 'ADP'), 'than', 'teach', 'where', 'teaching', 'was', 'not', 'wanted', ',', 'they', 'would', 'wash', 'their', 'hands', 'of', 'the', 'mess', '.']
+---
+['It', 'is', 'hard', ('to', 'ADP', 'PRT'), ('blame', 'NOUN', 'VERB'), 'them', 'for', 'this', '.']
+---
+['Yet', 'there', 'were', 'other', 'motivations', 'and', 'actions', 'which', 'the', 'Belgians', 'took', 'after', ('independence', 'NUM', 'NOUN'), 'for', 'which', 'history', 'may', 'not', 'find', 'them', ('guiltless', 'VERB', 'ADJ'), '.']
+---
+['As', 'the', 'time', 'for', ('independence', 'PRON', 'NOUN'), 'approached', 'there', 'were', 'in', 'the', 'Congo', 'no', 'fewer', 'than', '120', 'political', 'parties', ',', 'or', 'approximately', 'eight', 'for', 'each', 'university', 'graduate', '.']
+---
+['First', ',', 'there', 'were', 'those', ('Congolese', 'X', 'NOUN'), ('(', 'X', '.'), ('among', 'X', 'ADP'), ('them', 'X', 'PRON'), ('Joseph', 'X', 'NOUN'), ('Kasavubu', 'X', 'NOUN'), ')', 'who', 'favored', ('splitting', 'ADP', 'VERB'), 'the', 'country', 'into', 'small', 'independent', 'states', ',', ('Balkanizing', 'CONJ', 'VERB'), 'it', '.']
+---
+['Second', ',', 'there', 'were', 'those', '(', ('Moise', 'X', 'NOUN'), ('Tshombe', 'X', 'NOUN'), ')', 'who', 'favored', ('near-Balkanization', 'ADV', 'NOUN'), ',', 'a', 'loose', ('federalism', 'PRT', 'NOUN'), 'having', 'a', 'central', 'government', 'of', 'limited', 'authority', ',', 'with', 'much', 'power', 'residing', 'in', 'the', 'states', '.']
+---
+['Third', ',', 'there', 'were', 'those', '(', ('notably', 'X', 'ADV'), ('Patrice', 'X', 'NOUN'), ('Lumumba', 'X', 'NOUN'), ')', 'who', 'favored', 'a', 'unified', 'Congo', 'with', 'a', 'very', 'strong', 'central', 'government', '.']
+---
+['And', 'fourth', ',', 'there', 'were', ('moderates', 'VERB', 'NOUN'), 'who', 'were', 'in', 'no', 'hurry', 'for', ('independence', 'NUM', 'NOUN'), 'and', 'wished', 'to', 'wait', 'until', 'the', 'Congo', 'grew', 'up', '.']
+---
+['However', ',', 'the', 'positions', 'of', ('all', 'PRT', 'ADV'), 'parties', 'and', 'leaders', 'were', 'constantly', 'shifting', '.']
+---
+['A', 'final', 'factor', 'which', 'contributed', 'greatly', 'to', 'the', 'fragmentation', 'of', 'the', 'Congo', ',', 'immediately', 'after', ('independence', 'NUM', 'NOUN'), ',', 'was', 'the', 'provincial', 'structure', ('that', 'PRON', 'DET'), 'had', 'been', 'established', 'by', 'the', 'Belgians', 'for', 'convenience', 'in', 'administration', '.']
+---
+['They', 'had', 'divided', 'the', 'Congo', 'into', 'six', 'provinces', '--', ('Leopoldville', 'NUM', 'NOUN'), ',', ('Kasai', 'NUM', 'NOUN'), ',', ('Kivu', 'NUM', 'NOUN'), ',', ('Katanga', 'NUM', 'NOUN'), ',', ('Equator', '.', 'NOUN'), 'and', 'Eastern', '--', 'unfortunately', 'with', 'little', 'regard', 'for', ('ethnic', 'X', 'ADJ'), ('groupings', 'X', 'NOUN'), '.']
+---
+['Thus', 'some', ('provinces', 'X', 'NOUN'), ('contained', 'X', 'VERB'), ('tribes', 'X', 'NOUN'), ('which', 'X', 'DET'), ('detested', 'X', 'VERB'), ('each', 'X', 'DET'), ('other', 'X', 'ADJ'), ',', 'and', 'to', 'them', ('independence', 'VERB', 'NOUN'), 'meant', 'an', 'opportunity', 'for', 'war', '.']
+---
+['The', 'Belgian', 'Congo', 'was', 'granted', 'its', 'independence', 'with', 'what', 'seemed', 'a', 'workable', ('Western-style', 'PRT', 'ADJ'), ('form', 'VERB', 'NOUN'), 'of', 'government', ':', 'there', 'were', 'to', 'be', 'a', 'president', 'and', 'a', 'premier', ',', 'and', 'a', 'bicameral', 'legislature', 'elected', 'by', ('universal', 'DET', 'ADJ'), 'suffrage', 'in', 'the', 'provinces', '.']
+---
+[('Well-wishers', 'ADV', 'NOUN'), 'around', 'the', 'world', 'hoped', 'that', 'the', 'Congo', 'would', 'quickly', ('assume', 'ADP', 'VERB'), 'a', 'respectable', 'position', 'in', 'the', 'society', 'of', 'nations', '.']
+---
+['If', ('internal', 'X', 'ADJ'), ('frictions', 'X', 'NOUN'), ('arose', 'X', 'VERB'), ',', 'they', 'could', 'be', 'handled', 'by', 'the', ('25,000-man', 'X', 'ADJ'), ('Congolese', 'X', 'ADJ'), 'army', ',', 'the', ('Force', 'NOUN', 'X'), ('Publique', 'NOUN', 'X'), ',', 'which', 'had', 'been', 'trained', 'and', 'was', 'still', ('officered', 'ADV', 'VERB'), 'by', 'white', 'Belgians', '.']
+---
+['The', 'president', ',', 'Joseph', 'Kasavubu', ',', 'seemed', 'an', 'able', 'administrator', 'and', 'the', 'premier', ',', ('Patrice', 'X', 'NOUN'), ('Lumumba', 'X', 'NOUN'), ',', 'a', 'reasonable', 'man', '.']
+---
+[('Twenty-four', 'X', 'NUM'), ('hours', 'X', 'NOUN'), ('after', 'X', 'ADP'), ('independence', 'X', 'NOUN'), ('the', 'X', 'DET'), ('wild', 'X', 'ADJ'), ('tribesmen', 'X', 'NOUN'), ('commenced', 'X', 'VERB'), 'fighting', 'each', 'other', '.']
+---
+['Presently', 'the', 'well-armed', 'members', 'of', 'the', ('Force', 'NOUN', 'X'), ('Publique', 'NOUN', 'X'), '--', 'many', 'of', 'them', 'drawn', 'from', ('savage', 'NOUN', 'ADJ'), 'and', ('even', 'X', 'ADV'), ('cannibalistic', 'X', 'ADJ'), ('tribes', 'X', 'NOUN'), ',', 'erupted', 'in', ('mutiny', 'NUM', 'NOUN'), ',', ('rioting', 'NUM', 'VERB'), ',', ('raping', 'X', 'VERB'), ('and', 'X', 'CONJ'), ('looting', 'X', 'VERB'), '.']
+---
+['Terror', ('engulfed', 'ADP', 'VERB'), 'the', 'thousands', 'of', ('Belgian', 'NUM', 'ADJ'), ('civilians', '.', 'NOUN'), 'who', 'had', 'remained', 'in', 'the', 'country', '.']
+---
+['The', 'Belgian', 'government', 'decided', ('to', 'ADP', 'PRT'), ('act', 'NOUN', 'VERB'), ',', 'and', 'on', 'July', '10', 'dispatched', ('paratroops', 'ADV', 'NOUN'), 'to', 'the', 'Congo', '.']
+---
+['On', 'July', '11', 'the', 'head', 'of', 'the', 'mineral-rich', 'province', 'of', ('Katanga', 'NUM', 'NOUN'), ',', ('Moise', 'X', 'NOUN'), ('Tshombe', 'X', 'NOUN'), ',', 'announced', 'that', 'his', 'province', 'had', ('seceded', 'ADV', 'VERB'), 'from', 'the', 'country', '.']
+---
+['each', ('succeeding', 'ADJ', 'VERB'), 'day', 'brought', 'new', 'acts', 'of', 'violence', '.']
+---
+[('Lumumba', 'PRON', 'NOUN'), 'and', ('Kasavubu', 'PRON', 'NOUN'), 'blamed', 'it', 'all', 'on', 'the', 'military', 'intervention', 'by', 'the', 'Belgians', ',', 'and', 'appealed', 'to', 'the', 'United', 'Nations', 'to', 'send', 'troops', 'to', 'oust', 'them', '.']
+---
+['On', 'July', '14', 'the', 'Security', 'Council', '--', 'with', 'France', 'and', 'Great', 'Britain', ('abstaining', 'NOUN', 'VERB'), '--', 'voted', 'the', 'resolution', 'which', 'drew', 'the', 'U.N.', 'into', 'the', 'Congo', '.']
+---
+[('Vague', 'ADV', 'ADJ'), 'in', ('wording', 'VERB', 'NOUN'), ',', 'it', 'called', 'for', ('withdrawal', 'NUM', 'NOUN'), 'of', ('Belgian', 'DET', 'ADJ'), 'troops', 'and', 'authorized', 'the', 'Secretary-General', '``', 'to', 'take', 'the', 'necessary', 'steps', 'to', 'provide', 'the', '(', ('Congolese', 'NUM', 'ADJ'), ')', 'Government', 'with', 'such', 'military', 'assistance', 'as', ('may', 'NOUN', 'VERB'), 'be', 'necessary', ',', 'until', ',', 'through', 'the', 'efforts', 'of', 'the', 'Congolese', 'Government', 'with', 'the', 'technical', 'assistance', 'of', 'the', 'United', 'Nations', ',', 'the', 'national', 'security', 'forces', 'may', 'be', 'able', ',', 'in', 'the', 'opinion', 'of', 'the', 'Government', ',', 'to', 'meet', 'fully', 'their', 'tasks', '.']
+---
+[('Secretary-General', 'X', 'NOUN'), ('Hammarskjold', 'X', 'NOUN'), 'decided', 'that', 'it', 'would', 'be', ('preferable', 'ADV', 'ADJ'), 'if', 'the', 'U.N.', 'troops', 'sent', 'into', 'the', 'Congo', 'were', 'to', 'come', 'from', ('African', 'NOUN', 'ADJ'), ',', 'or', 'at', 'least', ('nonwhite', 'NOUN', 'ADJ'), ',', 'nations', '--', 'certainly', 'not', 'from', 'the', 'U.S.', ',', 'Russia', ',', 'Great', 'Britain', 'or', 'France', '.']
+---
+['He', 'quickly', 'called', 'on', 'Ghana', ',', ('Tunisia', 'NUM', 'NOUN'), ',', 'Morocco', ',', ('Guinea', 'X', 'NOUN'), ('and', 'X', 'CONJ'), ('Mali', 'X', 'NOUN'), ',', 'which', 'dispatched', 'troops', 'within', 'hours', '.']
+---
+['Ultimately', 'the', 'U.N.', 'army', 'in', 'the', 'Congo', 'reached', 'a', 'top', 'strength', 'of', '19,000', ',', 'including', ('about', 'ADP', 'ADV'), '5,000', 'from', 'India', 'and', 'a', 'few', 'soldiers', 'from', ('Eire', 'NUM', 'NOUN'), 'and', ('Sweden', 'NUM', 'NOUN'), ',', 'who', 'were', 'the', 'only', 'whites', '.']
+---
+['The', ('Belgians', 'X', 'NOUN'), ('were', 'X', 'VERB'), ('reluctant', 'X', 'ADJ'), 'to', 'withdraw', 'their', 'troops', 'and', 'often', ('obstructed', 'ADJ', 'VERB'), 'U.N.', 'efforts', '.']
+---
+['The', ('wildly', 'X', 'ADV'), ('erratic', 'X', 'ADJ'), ('nature', 'X', 'NOUN'), ('of', 'X', 'ADP'), ('Patrice', 'X', 'NOUN'), ('Lumumba', 'X', 'NOUN'), ('caused', 'X', 'VERB'), ('constant', 'X', 'ADJ'), 'problems', '--', 'he', 'frequently', 'announced', 'that', 'he', 'wanted', 'the', 'U.N.', 'to', 'get', 'out', 'of', 'the', 'Congo', 'along', 'with', 'the', 'Belgians', ',', 'and', 'appealed', 'to', 'Russia', 'for', 'help', '.']
+---
+['(', 'However', ',', 'there', 'is', 'little', 'evidence', 'that', 'the', 'late', ('Lumumba', 'PRT', 'NOUN'), 'was', 'a', 'Communist', '.']
+---
+['Before', ('appealing', 'ADJ', 'VERB'), 'to', 'the', 'U.N.', 'or', 'to', 'Russia', ',', 'he', 'first', 'appealed', 'to', 'the', 'U.S.', 'for', 'military', 'help', ',', 'and', 'was', 'rejected', '.']
+---
+[')', ('Lumumba', 'X', 'NOUN'), ('further', 'X', 'ADV'), ('complicated', 'X', 'VERB'), ('the', 'X', 'DET'), ("U.N.'s", 'X', 'NOUN'), ('mission', 'X', 'NOUN'), ('by', 'X', 'ADP'), ('initiating', 'X', 'VERB'), ('small', 'X', 'ADJ'), ('``', 'X', '.'), ('wars', 'X', 'NOUN'), "''", 'with', 'the', ('secessionist', 'ADJ', 'NOUN'), 'province', 'of', ('Katanga', 'NUM', 'NOUN'), 'and', 'with', 'South', ('Kasai', 'ADP', 'NOUN'), 'which', ',', 'under', 'Albert', 'Kalonji', ',', 'wanted', ('to', 'PRT', 'ADP'), 'secede', 'as', 'well', '.']
+---
+['Meanwhile', 'Russia', 'took', 'every', 'opportunity', 'to', 'meddle', 'in', 'the', 'Congo', ',', ('sending', 'X', 'VERB'), ('Lumumba', 'X', 'NOUN'), 'equipment', 'for', 'his', '``', ('wars', 'NUM', 'NOUN'), "''", ',', ('dispatching', 'NUM', 'VERB'), '``', 'technicians', "''", 'and', 'even', 'threatening', ',', 'on', 'occasion', ',', ('to', 'ADP', 'PRT'), ('intervene', 'X', 'VERB'), ('openly', 'X', 'ADV'), '.']
+---
+['But', 'by', 'the', 'end', 'of', 'the', 'three-month', 'period', ',', 'in', 'October', '1960', ',', 'something', 'approaching', ('calm', 'VERB', 'ADJ'), 'settled', 'on', 'the', 'Congo', '.']
+---
+['President', ('Kasavubu', 'X', 'NOUN'), ('became', 'X', 'VERB'), ('exasperated', 'X', 'VERB'), 'with', ('Lumumba', 'NUM', 'NOUN'), 'and', 'fired', 'him', '.']
+---
+[('Lumumba', 'X', 'NOUN'), ('fired', 'X', 'VERB'), ('Kasavubu', 'X', 'NOUN'), '.']
+---
+[('Mobutu', 'X', 'NOUN'), ('promptly', 'X', 'ADV'), ('flung', 'X', 'VERB'), 'out', 'the', 'Russians', ',', 'who', 'have', 'not', ('since', 'ADP', 'ADV'), 'played', 'any', 'significant', 'part', 'on', 'the', 'local', 'scene', ',', 'although', 'they', 'have', ('redoubled', 'ADP', 'VERB'), 'their', ('obstructionist', 'ADJ', 'NOUN'), 'efforts', 'at', 'U.N.', 'headquarters', 'in', 'New', 'York', '.']
+---
+['The', 'Belgians', '--', 'at', 'least', 'officially', '--', ('departed', 'ADV', 'VERB'), 'from', 'the', 'Congo', ('as', 'ADP', 'ADV'), 'well', ',', ('withdrawing', 'CONJ', 'VERB'), 'all', 'of', 'their', 'uniformed', 'troops', '.']
+---
+['But', 'they', 'left', 'behind', 'them', 'large', 'numbers', 'of', 'officers', ',', ('variously', 'PRON', 'ADV'), 'called', '``', 'volunteers', "''", 'or', '``', ('mercenaries', 'NUM', 'NOUN'), "''", ',', 'who', 'now', ('staff', 'NOUN', 'VERB'), 'the', 'army', 'of', ('Moise', 'X', 'NOUN'), ('Tshombe', 'X', 'NOUN'), ('in', 'X', 'ADP'), ('Katanga', 'X', 'NOUN'), ',', 'the', ('seceded', 'X', 'VERB'), ('province', 'X', 'NOUN'), ('which', 'X', 'DET'), ',', 'according', ('to', 'PRT', 'ADP'), ('Tshombe', 'VERB', 'NOUN'), ',', 'holds', ('65%', 'ADV', 'NOUN'), 'of', 'the', 'mineral', 'wealth', 'of', 'the', 'entire', 'country', '.']
+---
+['From', 'October', '1960', 'to', 'February', '1961', ',', 'the', 'U.N.', ('forces', 'NOUN', 'VERB'), 'in', 'the', 'Congo', 'took', 'little', 'action', '.']
+---
+['There', 'was', 'no', 'directive', 'for', 'it', '--', 'the', 'Security', "Council's", 'resolution', 'had', 'not', 'mentioned', 'political', 'matters', ',', 'and', 'in', 'any', 'case', 'the', 'United', 'Nations', 'by', 'the', 'terms', 'of', 'its', 'charter', 'may', 'not', ('interfere', 'ADV', 'VERB'), 'in', 'the', 'political', 'affairs', 'of', 'any', 'nation', ',', 'whether', 'to', 'unify', 'it', ',', ('federalize', 'CONJ', 'VERB'), 'it', 'or', ('Balkanize', 'ADV', 'VERB'), 'it', '.']
+---
+['During', 'the', 'five-month', ('lull', 'VERB', 'NOUN'), ',', 'civil', 'war', ('smoldered', '.', 'VERB'), 'and', ('flickered', 'ADV', 'VERB'), 'throughout', 'the', 'Congo', '.']
+---
+['In', 'February', 'the', 'murder', 'of', ('Patrice', 'X', 'NOUN'), ('Lumumba', 'X', 'NOUN'), ',', 'who', 'had', 'been', ('kidnaped', 'ADV', 'VERB'), 'into', ('Katanga', 'NUM', 'NOUN'), 'and', 'executed', 'on', 'order', 'of', ('Tshombe', 'NUM', 'NOUN'), ',', 'again', 'stirred', 'the', 'U.N.', 'to', 'action', '.']
+---
+['On', 'Feb.', '21', 'the', 'council', 'passed', 'another', 'resolution', 'urging', 'the', ('taking', 'VERB', 'NOUN'), 'of', '``', ('all', 'PRT', 'ADV'), ('appropriate', 'VERB', 'ADJ'), 'measures', 'to', 'prevent', 'the', 'occurrence', 'of', 'civil', 'war', 'in', 'the', 'Congo', ',', 'including', 'the', 'use', 'of', 'force', ',', 'if', 'necessary', ',', 'in', 'the', 'last', 'resort', "''", '.']
+---
+['Although', 'the', 'resolution', 'might', 'have', 'been', 'far', ('more', 'ADJ', 'ADV'), 'specific', ',', 'it', 'was', 'considerably', ('tougher', 'ADV', 'ADJ'), 'than', 'the', 'earlier', 'one', '.']
+---
+['It', 'also', 'urged', 'that', 'the', ('U.N.', 'X', 'NOUN'), ('eject', 'X', 'VERB'), ',', 'and', 'prevent', 'the', 'return', 'of', ',', 'all', ('Belgian', 'VERB', 'ADJ'), 'and', 'other', 'foreign', ('military', 'NOUN', 'ADJ'), 'and', 'political', 'advisers', ';', ';']
+---
+['ordered', 'an', 'investigation', 'of', ("Lumumba's", 'DET', 'NOUN'), 'death', ';', ';']
+---
+['Though', 'President', 'John', 'F.', 'Kennedy', 'was', 'primarily', 'concerned', 'with', 'the', 'crucial', 'problems', 'of', 'Berlin', 'and', ('disarmament', 'X', 'NOUN'), ('adviser', 'X', 'NOUN'), ("McCloy's", 'X', 'NOUN'), ('unexpected', 'X', 'ADJ'), 'report', 'from', 'Khrushchev', ',', 'his', 'new', 'enthusiasm', 'and', ('reliance', 'ADV', 'NOUN'), 'on', 'personal', 'diplomacy', 'involved', 'him', 'in', 'other', 'key', 'problems', 'of', 'U.S.', 'foreign', 'policy', 'last', 'week', '.']
+---
+['High', 'up', 'on', 'the', "President's", 'priority', 'list', 'was', 'the', 'thorny', 'question', 'of', ('Bizerte', 'NUM', 'NOUN'), '.']
+---
+['On', 'this', 'issue', ',', 'the', 'President', 'received', 'a', 'detailed', ('report', 'VERB', 'NOUN'), 'from', 'his', 'U.N.', 'Ambassador', 'Adlai', 'Stevenson', ',', 'who', 'had', 'just', 'returned', 'from', 'Paris', ',', 'and', 'Mr.', 'Kennedy', 'asked', 'Stevenson', ('to', 'ADP', 'PRT'), ('search', 'NOUN', 'VERB'), 'for', 'a', 'face-saving', 'way', '--', 'for', 'both', 'Paris', 'and', ('Tunis', 'NUM', 'NOUN'), '--', ('out', 'PRT', 'ADP'), 'of', 'the', 'imbroglio', '.']
+---
+['Ideally', ',', 'the', 'President', 'would', ('like', 'ADP', 'VERB'), 'the', ('French', 'ADJ', 'NOUN'), 'to', 'agree', 'on', 'a', '``', ('status', 'X', 'NOUN'), 'quo', ('ante', 'X', 'ADV'), "''", 'on', ('Bizerte', 'NUM', 'NOUN'), ',', 'and', 'accept', 'a', 'new', 'timetable', 'for', ('withdrawing', 'ADP', 'VERB'), 'their', 'forces', 'from', 'the', ('Mediterranean', 'ADJ', 'NOUN'), 'base', '.']
+---
+['The', 'President', 'also', 'discussed', 'the', ('Bizerte', 'ADJ', 'NOUN'), 'deadlock', 'with', 'the', 'No.', '2', 'man', 'in', 'the', 'Tunisian', 'Government', ',', ('Defense', 'X', 'NOUN'), ('Minister', 'X', 'NOUN'), ('Bahi', 'X', 'NOUN'), ('Ladgham', 'X', 'NOUN'), ',', 'who', 'flew', 'to', 'Washington', 'last', 'week', 'to', 'seek', 'U.S.', 'support', '.']
+---
+['The', 'conversation', 'apparently', 'convinced', 'Mr.', 'Kennedy', 'that', 'the', 'positions', 'of', 'France', 'and', ('Tunisia', 'PRON', 'NOUN'), 'were', 'not', ('irreconcilable', 'ADV', 'ADJ'), '.']
+---
+['Through', ('Ladgham', 'NUM', 'NOUN'), ',', 'Mr.', 'Kennedy', 'sent', 'a', 'message', 'along', 'those', 'lines', 'to', ('Tunisian', 'X', 'ADJ'), ('President', 'X', 'NOUN'), ('Habib', 'X', 'NOUN'), ('Bourguiba', 'X', 'NOUN'), ';', ';']
+---
+['and', 'one', 'U.S.', 'official', 'said', ':', '``', 'The', 'key', 'question', 'now', 'is', 'which', 'side', 'picks', 'up', 'the', 'phone', ('first', 'ADJ', 'ADV'), "''", '.']
+---
+['On', 'the', 'Latin', 'American', 'front', ',', 'the', 'President', 'held', 'talks', 'with', 'Secretary', 'of', 'the', 'Treasury', 'Douglas', 'Dillon', 'before', 'sending', 'him', ('to', 'PRT', 'ADP'), ('Uruguay', 'VERB', 'NOUN'), 'and', 'the', 'Inter-American', 'Economic', 'and', 'Social', 'Council', '(', 'which', 'the', 'President', 'himself', 'had', 'originally', 'hoped', 'to', 'attend', ')', '.']
+---
+['And', ('that', 'PRON', 'DET'), 'was', 'not', 'all', '.']
+---
+['In', 'conferences', 'with', ('Nationalist', 'X', 'ADJ'), ("China's", 'X', 'NOUN'), ('dapper', 'X', 'ADJ'), ',', ('diminutive', 'X', 'ADJ'), ('Vice', 'X', 'ADJ'), ('President', 'X', 'NOUN'), ('Chen', 'X', 'NOUN'), ('Cheng', 'X', 'NOUN'), ',', 'Mr.', 'Kennedy', ('assured', 'X', 'VERB'), ('Chiang', 'X', 'NOUN'), ("Kai-shek's", 'X', 'NOUN'), ('emissary', 'X', 'NOUN'), 'that', 'the', 'U.S.', 'is', 'as', 'firmly', 'opposed', ('as', 'ADV', 'ADP'), 'ever', 'to', 'the', 'admission', 'of', 'Red', 'China', 'to', 'the', 'United', 'Nations', '.']
+---
+[('Chen', 'PRON', 'NOUN'), 'was', 'equally', 'adamant', 'in', 'his', 'opposition', 'to', 'the', 'admission', 'of', ('Outer', 'X', 'ADJ'), ('Mongolia', 'X', 'NOUN'), ';', ';']
+---
+['however', 'the', 'President', ',', 'who', 'would', 'like', 'to', 'woo', 'the', 'former', 'Chinese', 'province', 'away', 'from', 'both', 'Peking', 'and', 'Moscow', ',', 'would', 'promise', ('Chen', 'DET', 'NOUN'), 'nothing', ('more', 'ADV', 'ADJ'), 'than', 'an', 'abstention', 'by', 'the', 'U.S.', 'if', ('Outer', 'X', 'ADJ'), ("Mongolia's", 'X', 'NOUN'), ('admission', 'X', 'NOUN'), ('comes', 'X', 'VERB'), 'to', 'a', 'vote', '.']
+---
+['The', 'President', 'also', ('conferred', 'ADV', 'VERB'), 'with', ('emissaries', 'NUM', 'NOUN'), 'from', ('Guatemala', 'NUM', 'NOUN'), 'and', ('Nepal', 'ADV', 'NOUN'), 'who', 'are', 'seeking', ('more', 'ADV', 'ADJ'), 'foreign', 'aid', '.']
+---
+['To', 'Africa', ',', 'he', 'sent', 'his', ('most', 'ADJ', 'ADV'), ('trusted', 'ADJ', 'VERB'), 'adviser', ',', 'his', 'brother', ',', 'Attorney', 'General', 'Robert', 'Kennedy', ',', 'on', 'a', ('good-will', 'ADJ', 'NOUN'), 'mission', 'to', 'the', 'Ivory', 'Coast', '.']
+---
+['All', 'week', ('long', 'ADV', 'ADJ'), 'the', 'President', 'clearly', 'was', 'playing', 'a', 'larger', 'personal', 'role', 'in', 'foreign', 'affairs', ';', ';']
+---
+['Crime', ':', "'", ('skyjacked', 'NUM', 'VERB'), "'"]
+---
+['From', 'International', 'Airport', 'in', 'Los', 'Angeles', 'to', 'International', 'Airport', 'in', 'Houston', ',', 'as', 'the', 'great', ('four-jet', 'X', 'ADJ'), ('Boeing', 'X', 'NOUN'), ('707', 'X', 'NUM'), ('flies', 'X', 'VERB'), ',', 'is', 'a', 'routine', 'five', 'hours', 'and', '25', 'minutes', ',', 'including', ('stopovers', 'NUM', 'NOUN'), 'at', 'Phoenix', ',', 'El', 'Paso', ',', 'and', 'San', 'Antonio', '.']
+---
+['When', 'Continental', ('Airlines', 'X', 'NOUN'), ('night-coach', 'X', 'NOUN'), ('Flight', 'X', 'NOUN'), ('54', 'X', 'NUM'), 'took', 'off', 'at', '11:30', 'one', 'night', 'last', 'week', ',', 'there', 'was', 'no', 'reason', 'to', 'think', 'it', 'would', 'take', 'any', ('longer', 'ADV', 'ADJ'), '.']
+---
+[('Thirty-one', 'DET', 'NUM'), 'minutes', 'later', ',', 'when', 'it', 'took', 'off', 'for', 'El', 'Paso', ',', 'hardly', 'anyone', 'of', 'the', 'crew', 'of', 'six', 'or', 'the', '65', 'other', 'passengers', 'paid', 'any', 'attention', 'to', 'the', 'man', 'and', 'teen-age', 'boy', 'who', 'had', 'come', 'aboard', '.']
+---
+['At', '3:57', 'a.m.', ',', 'with', 'the', 'plane', ('about', 'ADP', 'ADV'), 'twenty', 'minutes', ('out', 'PRT', 'ADP'), 'of', 'El', 'Paso', ',', 'passenger', 'Robert', 'Berry', ',', 'a', 'San', 'Antonio', ('advertising', 'NOUN', 'VERB'), 'man', ',', ('glanced', 'CONJ', 'VERB'), 'up', 'and', 'saw', 'the', 'man', 'and', 'boy', ',', 'accompanied', 'by', 'a', 'stewardess', ',', 'walking', ('up', 'PRT', 'ADP'), 'the', 'aisle', 'toward', 'the', 'cockpit', '.']
+---
+['``', 'I', 'figured', 'he', 'was', ('sick', 'ADV', 'ADJ'), "''", '.']
+---
+['John', 'Salvador', ',', 'a', 'farmer', 'from', 'Palm', 'Desert', ',', 'Calif.', ',', 'was', 'sitting', ('up', 'PRT', 'ADP'), 'front', 'and', 'could', 'see', 'through', 'the', 'door', 'as', 'the', 'trio', 'entered', 'the', 'cockpit', '.']
+---
+[('Salvador', 'PRON', 'NOUN'), 'saw', 'the', 'youth', ('hold', 'VERB', 'NOUN'), 'his', 'against', 'the', 'head', 'of', ('stewardess', 'X', 'NOUN'), ('Lois', 'X', 'NOUN'), ('Carnegey', 'X', 'NOUN'), ';', ';']
+---
+['the', 'man', 'put', 'his', 'at', 'the', 'head', 'of', ('Capt.', 'X', 'NOUN'), ('Byron', 'X', 'NOUN'), ('D.', 'X', 'NOUN'), ('Rickards', 'X', 'NOUN'), '.']
+---
+[('To', 'PRT', 'ADP'), ('Rickards', 'VERB', 'NOUN'), ',', 'a', '52-year-old', 'veteran', '30', 'years', 'in', 'the', 'air', ',', 'it', 'was', 'an', 'old', 'story', ':', 'His', 'plane', 'was', 'being', ('hijacked', 'ADV', 'VERB'), 'in', ('mid-flight', 'NUM', 'NOUN'), 'again', ('much', 'ADV', 'ADJ'), 'as', 'it', 'had', 'happened', 'in', '1930', ',', 'when', 'Peruvian', 'rebels', 'made', 'him', 'land', 'a', ('Ford', 'X', 'NOUN'), ('tri-motor', 'X', 'NOUN'), ('at', 'X', 'ADP'), ('Arequipa', 'X', 'NOUN'), '.']
+---
+['But', 'last', "week's", 'pirates', ',', 'like', 'the', ('Cuban-American', 'X', 'NOUN'), ('who', 'X', 'PRON'), ('recently', 'X', 'ADV'), ('hijacked', 'X', 'VERB'), ('an', 'X', 'DET'), ('Eastern', 'X', 'ADJ'), ('Airlines', 'X', 'NOUN'), ('Electra', 'X', 'NOUN'), ('(', 'X', '.'), ('Newsweek', 'X', 'NOUN'), ',', 'Aug.', '7', ')', ',', 'wanted', 'to', 'go', 'to', 'Havana', '.']
+---
+[('Stalling', 'PRON', 'VERB'), ':']
+---
+['``', 'Tell', 'your', 'company', 'there', 'are', 'four', 'of', 'us', 'here', 'with', ('guns', 'NUM', 'NOUN'), "''", ',', 'the', 'elder', 'man', 'told', ('Rickards', 'ADV', 'NOUN'), '.']
+---
+['The', ('pilot', 'X', 'NOUN'), ('radioed', 'X', 'VERB'), ('El', 'X', 'NOUN'), ('Paso', 'X', 'NOUN'), ('International', 'X', 'ADJ'), ('Airport', 'X', 'NOUN'), 'with', 'just', ('that', 'ADP', 'DET'), 'message', '.']
+---
+['But', ',', 'he', 'told', 'the', '``', ('skyjackers', 'NUM', 'NOUN'), "''", ',', 'the', ('707', 'NOUN', 'NUM'), "didn't", 'carry', 'enough', 'fuel', 'to', 'reach', 'Havana', ';', ';']
+---
+['Jerry', 'McCauley', 'of', ('Sacramento', 'NUM', 'NOUN'), ',', 'Calif.', ',', 'one', 'of', 'some', ('twenty', 'X', 'NUM'), ('Air', 'X', 'NOUN'), ('Force', 'X', 'NOUN'), ('recruits', 'X', 'NOUN'), 'on', 'board', ',', ('awoke', 'ADV', 'VERB'), 'from', 'a', 'nap', 'in', 'confusion', '.']
+---
+['``', 'The', 'old', 'man', 'came', 'from', 'the', 'front', 'of', 'the', 'plane', 'and', 'said', 'he', 'wanted', 'four', 'volunteers', 'to', 'go', 'to', 'Cuba', "''", ',', ('McCauley', 'PRON', 'NOUN'), 'said', ',', '``', 'and', 'like', 'a', 'nut', 'I', 'raised', 'my', 'hand', '.']
+---
+['What', 'the', 'man', 'wanted', 'was', 'four', 'persons', 'to', 'volunteer', 'as', ('hostages', 'NUM', 'NOUN'), ',', ('along', 'ADV', 'ADP'), 'with', 'the', 'crew', '.']
+---
+[('Pfc.', 'DET', 'NOUN'), 'Truman', 'Cleveland', 'of', 'St.', 'Augustine', '.']
+---
+['Fla.', ',', 'and', 'Leonard', 'Gilman', ',', 'a', 'former', 'college', ('boxer', '.', 'NOUN'), 'and', 'veteran', 'of', 'the', 'U.S.', ('Immigration', 'CONJ', 'NOUN'), 'Service', 'Border', 'Patrol', '.']
+---
+['Everybody', 'else', 'was', 'allowed', ('to', 'ADP', 'PRT'), ('file', 'NOUN', 'VERB'), 'off', 'the', 'plane', 'after', 'it', 'touched', 'down', 'at', 'El', 'Paso', 'at', '4:18', 'a.m.', '.']
+---
+['They', 'found', 'a', 'large', 'welcoming', 'group', '--', 'El', 'Paso', 'policemen', ',', 'Border', 'Patrol', ',', ("sheriff's", 'X', 'NOUN'), ('deputies', 'X', 'NOUN'), ',', 'and', 'FBI', 'men', ',', 'who', 'surged', 'around', 'the', 'plane', 'with', 'rifles', 'and', ('submachine', 'X', 'ADJ'), ('guns', 'X', 'NOUN'), '.']
+---
+['Other', 'FBI', 'men', ',', 'talking', 'with', 'the', 'pilot', 'from', 'the', 'tower', ',', 'conspired', 'with', 'him', ('to', 'ADP', 'PRT'), ('delay', 'NOUN', 'VERB'), 'the', 'proposed', 'flight', 'to', 'Havana', '.']
+---
+['The', 'ground', 'crew', ',', 'which', ('ordinarily', 'X', 'ADV'), ('fuels', 'X', 'VERB'), ('a', 'X', 'DET'), ('707', 'X', 'NUM'), 'in', 'twenty', 'minutes', ',', 'took', 'fully', 'three', 'hours', '.']
+---
+['Still', 'more', 'time', 'was', ('consumed', 'ADV', 'VERB'), 'while', 'the', 'pilot', ',', 'at', 'the', ('radioed', 'ADJ', 'VERB'), 'suggestion', 'of', 'Continental', 'president', 'Robert', ('Six', 'NUM', 'NOUN'), ',', 'tried', 'to', 'persuade', 'the', 'armed', 'pair', 'to', 'swap', 'the', ('Boeing', 'ADJ', 'NOUN'), 'jet', 'for', 'a', 'propeller-driven', 'Douglas', 'Aj', '.']
+---
+['Actually', ',', 'the', 'officers', 'on', 'the', 'ground', 'had', 'no', 'intention', 'of', 'letting', 'the', 'hijackers', 'get', 'away', 'with', 'any', ('kind', 'NOUN', 'ADJ'), 'of', 'an', 'airplane', ';', ';']
+---
+['they', 'had', 'orders', 'to', 'that', 'effect', 'straight', 'from', 'President', 'Kennedy', ',', 'who', 'thought', 'at', 'first', ',', 'as', 'did', 'most', 'others', ',', 'that', 'it', 'was', 'four', 'followers', 'of', ("Cuba's", 'DET', 'NOUN'), 'Fidel', 'Castro', 'who', 'had', 'taken', ('over', 'ADP', 'PRT'), 'the', ('707', 'NOUN', 'NUM'), '.']
+---
+['Mr.', 'Kennedy', 'had', 'been', 'informed', 'early', 'in', 'the', 'day', 'of', 'the', 'attempt', 'to', 'steal', 'the', 'plane', ',', 'kept', 'in', 'touch', ('throughout', 'ADP', 'ADV'), 'by', 'telephone', '.']
+---
+['At', 'one', 'time', ',', 'while', 'still', 'under', 'the', 'impression', 'that', 'he', 'was', 'dealing', 'with', 'a', ('Cuban', 'NOUN', 'ADJ'), 'plot', ',', 'the', 'President', 'talked', ('about', 'ADV', 'ADP'), 'invoking', 'a', 'total', 'embargo', 'on', 'trade', 'with', 'Cuba', '.']
+---
+['As', 'the', 'morning', 'wore', ('on', 'ADP', 'PRT'), 'and', 'a', 'blazing', 'West', 'Texas', 'sun', 'wiped', 'the', 'shadows', 'off', 'the', 'Franklin', 'Mountains', ',', 'police', 'got', 'close', 'enough', 'to', 'the', 'plane', 'to', 'pry', 'into', 'the', ('baggage', 'ADJ', 'NOUN'), 'compartment', '.']
+---
+['From', 'the', 'luggage', ',', 'they', 'learned', 'that', 'the', 'two', 'air', 'pirates', ',', 'far', 'from', 'being', 'Cubans', ',', 'were', ('native', 'NOUN', 'ADJ'), 'Americans', ',', ('subsequently', 'X', 'ADV'), ('identified', 'X', 'VERB'), ('as', 'X', 'ADP'), ('Leon', 'X', 'NOUN'), ('Bearden', 'X', 'NOUN'), ',', ('50-year-old', 'X', 'ADJ'), ('ex-convict', 'X', 'NOUN'), ('from', 'X', 'ADP'), ('Coolidge', 'X', 'NOUN'), ',', 'Ariz.', ',', 'and', 'his', 'son', ',', ('Cody', 'NUM', 'NOUN'), ',', '16', ',', 'a', ('high-school', 'ADJ', 'NOUN'), 'junior', '.']
+---
+['The', 'father', ',', 'by', 'accident', 'or', 'perhaps', ('to', 'ADP', 'PRT'), ('show', 'NOUN', 'VERB'), ',', 'as', 'he', 'said', ',', '``', 'we', 'mean', 'business', "''", ',', 'took', 'the', 'and', 'fired', 'a', 'slug', 'between', 'the', 'legs', 'of', 'Second', 'Officer', 'Norman', 'Simmons', '.']
+---
+['At', '7:30', 'a.m.', ',', ('more', 'ADV', 'ADJ'), 'than', 'three', 'hours', 'after', 'landing', ',', 'the', 'Beardens', 'gave', 'an', 'ultimatum', ':']
+---
+['Take', 'off', 'or', 'see', 'the', ('hostages', 'X', 'NOUN'), ('killed', 'X', 'VERB'), '.']
+---
+['The', 'tower', 'cleared', 'the', 'plane', 'for', ('take-off', 'NUM', 'NOUN'), 'at', '8', 'a.m.', ',', 'and', ('Captain', 'X', 'NOUN'), ('Rickards', 'X', 'NOUN'), ('began', 'X', 'VERB'), ('taxiing', 'X', 'VERB'), 'toward', 'the', 'runway', '.']
+---
+['Several', 'police', 'cars', ',', 'loaded', 'with', 'armed', 'officers', ',', ('raced', 'X', 'VERB'), ('alongside', 'X', 'ADV'), ',', 'blazing', 'away', 'at', 'the', 'tires', 'of', 'the', 'big', 'jet', '.']
+---
+['The', ('slugs', 'X', 'NOUN'), ('flattened', 'X', 'VERB'), ('ten', 'X', 'NUM'), 'tires', 'and', ('silenced', 'ADV', 'VERB'), 'one', 'of', 'the', ('inboard', 'X', 'ADJ'), ('engines', 'X', 'NOUN'), ';', ';']
+---
+['the', 'plane', 'slowed', 'to', 'a', ('halt', 'VERB', 'NOUN'), '.']
+---
+[('Ambulances', 'PRON', 'NOUN'), ',', ('baggage', 'CONJ', 'NOUN'), 'trucks', ',', 'and', 'cars', 'surrounded', 'it', '.']
+---
+['The', 'day', 'wore', ('on', 'ADP', 'PRT'), '.']
+---
+['A', 'few', 'minutes', 'later', ',', ('FBI', 'X', 'NOUN'), ('agent', 'X', 'NOUN'), ('Francis', 'X', 'NOUN'), ('Crosby', 'X', 'NOUN'), ',', 'talking', 'fast', ',', ('eased', 'CONJ', 'VERB'), ('up', 'PRT', 'ADP'), 'the', 'ramp', 'to', 'the', 'plane', ',', ('unarmed', 'NUM', 'ADJ'), '.']
+---
+['While', ('Crosby', 'X', 'NOUN'), ('distracted', 'X', 'VERB'), ('the', 'X', 'DET'), ('Beardens', 'X', 'NOUN'), ',', ('stewardesses', 'X', 'NOUN'), ('Carnegey', 'X', 'NOUN'), ('and', 'X', 'CONJ'), ('Toni', 'X', 'NOUN'), ('Besset', 'X', 'NOUN'), 'dropped', 'out', 'of', 'a', 'rear', 'door', '.']
+---
+['So', 'did', ('hostages', 'DET', 'NOUN'), 'Casey', ',', 'Cleveland', ',', 'and', ('Mullen', 'NUM', 'NOUN'), '.']
+---
+[('That', 'PRON', 'DET'), 'left', 'only', 'the', 'four', 'crew', 'members', ',', ('Crosby', 'NUM', 'NOUN'), ',', 'and', ('Border', 'X', 'NOUN'), ('Patrolman', 'X', 'NOUN'), ('Gilman', 'X', 'NOUN'), ',', ('all', 'PRT', 'ADV'), ('unarmed', 'VERB', 'ADJ'), ',', 'with', 'the', 'Beardens', '.']
+---
+['The', 'elder', ('Bearden', 'PRT', 'NOUN'), 'had', 'one', 'pistol', 'in', 'his', 'hand', ',', 'the', 'other', 'in', 'a', ('hip', 'ADJ', 'NOUN'), 'pocket', '.']
+---
+[('Gilman', 'PRON', 'NOUN'), 'started', 'talking', 'to', 'him', 'until', 'he', 'saw', 'his', 'chance', '.']
+---
+['He', 'caught', 'officer', ("Simmons'", 'CONJ', 'NOUN'), 'eye', ',', ('nodded', 'X', 'VERB'), ('toward', 'X', 'ADP'), ('young', 'X', 'ADJ'), ('Bearden', 'X', 'NOUN'), ',', 'and', '--', '``', 'I', 'swung', 'my', ('right', 'ADJ', 'NOUN'), ('as', 'ADP', 'ADV'), ('hard', 'ADJ', 'ADV'), 'as', 'I', 'could', '.']
+---
+[('Simmons', 'PRON', 'NOUN'), 'and', ('Crosby', 'PRON', 'NOUN'), 'jumped', 'the', 'boy', 'and', 'it', 'was', 'all', ('over', 'ADP', 'PRT'), "''", '.']
+---
+[('Frog-marched', 'ADV', 'VERB'), 'off', 'the', 'airplane', 'at', '1:48', 'p.m.', ',', 'the', 'Beardens', 'were', 'held', 'in', 'bail', 'of', ('$100,000', 'ADP', 'NOUN'), 'each', 'on', 'charges', 'of', ('kidnapping', 'NUM', 'VERB'), 'and', ('transporting', 'X', 'VERB'), ('a', 'X', 'DET'), ('stolen', 'X', 'VERB'), ('plane', 'X', 'NOUN'), 'across', 'state', 'lines', '.']
+---
+['(', ('Bearden', 'PRON', 'NOUN'), 'reportedly', 'hoped', 'to', 'peddle', 'the', 'plane', 'to', 'Castro', ',', 'and', 'live', ('high', 'ADJ', 'ADV'), 'in', 'Cuba', '.']
+---
+[')', 'Back', 'home', 'in', ('Coolidge', 'NUM', 'NOUN'), ',', 'Ariz.', ',', 'his', ('36-year-old', 'ADJ', 'NOUN'), 'wife', ',', 'Mary', ',', 'said', ':', '``', 'I', 'thought', 'they', 'were', 'going', 'to', 'Phoenix', 'to', 'look', 'for', 'jobs', "''", '.']
+---
+['Taking', ('precedence', 'ADV', 'NOUN'), 'over', 'all', 'other', 'legislation', 'on', 'Capitol', 'Hill', 'last', 'week', 'was', 'the', ('military', 'ADJ', 'NOUN'), 'strength', 'of', 'the', 'nation', '.']
+---
+['The', 'Senate', 'put', 'other', 'business', 'aside', 'as', 'it', 'moved', 'with', ('unaccustomed', 'DET', 'ADJ'), 'speed', 'and', ('unanimity', 'VERB', 'NOUN'), 'to', 'pass', '--', '85', 'to', '0', '--', 'the', 'largest', ('peacetime', 'ADJ', 'NOUN'), 'defense', 'budget', 'in', 'U.S.', 'history', '.']
+---
+['With', 'the', 'money', 'all', ('but', 'CONJ', 'ADP'), 'in', 'hand', ',', 'however', ',', 'the', 'Administration', 'indicated', ('that', 'PRON', 'ADP'), ',', 'instead', 'of', 'the', ('225,000', 'ADJ', 'NUM'), 'more', 'men', 'in', 'uniform', 'that', 'President', 'Kennedy', 'had', ('requested', 'ADV', 'VERB'), ',', 'the', 'armed', 'forces', 'would', 'be', 'increased', 'by', ('only', 'ADJ', 'ADV'), ('160,000', 'NOUN', 'NUM'), '.']
+---
+['The', '``', ('hold-back', 'NUM', 'NOUN'), "''", ',', 'as', ('Pentagon', 'X', 'NOUN'), ('mutterers', 'X', 'NOUN'), ('labeled', 'X', 'VERB'), ('it', 'X', 'PRON'), ',', 'apparently', 'was', 'a', 'temporary', ('expedient', 'ADJ', 'NOUN'), 'intended', 'to', 'insure', 'that', 'the', 'army', 'services', 'are', 'built', 'up', 'gradually', 'and', ',', 'thus', ',', 'the', 'new', 'funds', 'spent', 'prudently', '.']
+---
+['In', 'all', ',', 'the', 'Senate', 'signed', 'a', 'check', 'for', ('$46.7', 'DET', 'NOUN'), 'billion', ',', 'which', 'not', 'only', 'included', 'the', 'extra', '$3.5', 'billion', ('requested', 'ADP', 'VERB'), 'the', 'week', ('before', 'ADP', 'ADV'), 'by', 'President', 'Kennedy', ',', 'but', ('tacked', 'ADV', 'VERB'), ('on', 'ADP', 'PRT'), ('$754', 'DET', 'NOUN'), 'million', 'more', 'than', 'the', 'President', 'had', 'asked', 'for', '.']
+---
+['(', 'The', 'Senate', ',', 'on', 'its', 'own', ',', 'decided', 'to', 'provide', 'additional', 'B-52', 'and', 'other', ('long-range', 'X', 'NOUN'), ('bombers', 'X', 'NOUN'), 'for', 'the', 'Strategic', 'Air', 'Command', '.']
+---
+['The', 'Senate', 'also', 'voted', ('$5.2', 'ADP', 'NOUN'), 'billion', 'to', 'finance', 'the', "government's", 'health', ',', 'welfare', ',', 'and', 'labor', 'activities', '.']
+---
+['Debate', 'on', 'the', ('all-important', 'X', 'ADJ'), ('foreign-aid', 'X', 'NOUN'), 'bill', ',', 'with', 'its', 'controversial', ('long-range', 'ADJ', 'NOUN'), 'proposals', ',', 'had', 'just', 'begun', 'on', 'the', 'Senate', 'floor', 'at', 'the', 'weekend', '.']
+---
+['Food', ':', ('stew', 'X', 'NOUN'), 'a', 'la', ('Mulligatawny', '.', 'NOUN')]
+---
+['Most', 'members', 'of', 'the', 'U.S.', 'Senate', ',', 'because', 'they', 'are', 'human', ',', 'like', 'to', 'eat', ('as', 'ADP', 'ADV'), ('high', 'ADJ', 'ADV'), 'on', 'the', 'hog', 'as', 'they', 'can', '.']
+---
+['But', ',', 'because', 'they', 'are', 'politicians', ',', 'they', 'like', 'to', 'talk', ('as', 'ADP', 'ADV'), ('poor-mouth', 'NUM', 'ADV'), 'as', 'the', 'lowliest', 'voter', '.']
+---
+['Over', 'the', 'years', ',', ('enlivened', 'PRON', 'VERB'), 'chiefly', 'by', 'disputes', 'about', 'the', 'relative', 'merits', 'of', ('Maine', 'NUM', 'NOUN'), 'and', ('Idaho', 'ADJ', 'NOUN'), 'potatoes', ',', 'the', 'menu', 'has', 'pursued', 'its', 'drab', 'all-American', 'course', '.']
+---
+['Individual', 'senators', ',', 'with', 'an', 'eye', 'to', 'the', 'voters', ('back', 'NOUN', 'ADV'), 'home', ',', 'occasionally', 'introduced', ('smelts', 'ADV', 'NOUN'), 'from', 'Michigan', ',', ('soft-shell', 'X', 'NOUN'), ('crabs', 'X', 'NOUN'), 'from', 'Maryland', ',', 'oysters', 'from', 'Washington', ',', 'grapefruit', 'from', 'Florida', '.']
+---
+['But', 'plain', 'old', ('bean', 'X', 'NOUN'), ('soup', 'X', 'NOUN'), ',', 'served', 'daily', 'since', 'the', 'turn', 'of', 'the', 'century', '(', 'at', 'the', 'insistence', 'of', 'the', 'late', 'Sen.', 'Fred', 'Dubois', 'of', ('Idaho', 'NUM', 'NOUN'), ')', ',', 'made', ('clear', 'VERB', 'ADJ'), 'to', 'the', 'citizenry', 'that', 'the', "Senate's", ('stomach', 'PRT', 'NOUN'), 'was', 'in', 'the', 'right', 'place', '.']
+---
+['In', 'a', 'daring', 'stroke', ',', 'the', 'Senate', ('ventured', 'CONJ', 'VERB'), 'forth', 'last', 'week', 'into', 'the', 'world', 'of', 'haute', 'cuisine', ('and', 'X', 'CONJ'), ('hired', 'X', 'VERB'), ('a', 'X', 'DET'), ('$10,000-per-year', 'X', 'NOUN'), ('French-born', 'X', 'ADJ'), 'maitre', "d'hotel", '.']
+---
+['Holders', 'of', ('toll-road', 'DET', 'NOUN'), 'bonds', 'are', 'finding', 'improvements', 'in', 'monthly', 'reports', 'on', 'operation', 'of', 'the', 'turnpikes', '.']
+---
+['Higher', ('toll', 'ADJ', 'NOUN'), 'rates', 'also', 'are', 'helping', 'boost', 'revenues', '.']
+---
+['Result', 'is', 'a', 'better', 'prospect', 'for', 'a', 'full', 'payoff', 'by', 'bonds', ('that', 'ADP', 'PRON'), 'once', 'were', 'regarded', ('as', 'ADV', 'ADP'), 'highly', ('speculative', 'ADV', 'ADJ'), '.']
+---
+['Things', 'are', 'looking', 'up', 'these', 'days', 'for', 'many', 'of', 'the', 'State', 'turnpikes', 'on', 'which', 'investors', 'depend', 'for', 'income', 'from', 'their', ('toll-road', 'ADJ', 'NOUN'), 'bonds', '.']
+---
+[('That', 'PRON', 'DET'), 'added', 'traffic', ('means', 'NOUN', 'VERB'), 'rising', ('streams', 'ADV', 'NOUN'), 'of', 'dimes', 'and', 'quarters', 'at', ('toll', 'DET', 'NOUN'), 'gates', '.']
+---
+['As', 'a', 'result', 'of', 'the', 'new', 'outlook', 'for', ('turnpikes', 'NUM', 'NOUN'), ',', 'investors', 'who', 'bought', ('toll-road', 'DET', 'NOUN'), 'bonds', 'when', 'these', 'securities', 'ranked', ('as', 'ADV', 'ADP'), ('outright', 'ADV', 'ADJ'), ('speculations', 'PRON', 'NOUN'), 'are', 'now', 'finding', 'new', 'hope', 'for', 'their', 'investments', '.']
+---
+['Other', 'tax-exempt', 'bonds', 'of', 'State', 'and', 'local', 'governments', 'hit', 'a', 'price', 'peak', 'on', 'February', '21', ',', 'according', 'to', 'Standard', '&', ("Poor's", 'ADJ', 'NOUN'), 'average', '.']
+---
+['On', 'balance', ',', 'prices', 'of', 'those', 'bonds', 'have', ('slipped', 'ADP', 'VERB'), 'a', 'bit', 'since', 'then', '.']
+---
+['However', ',', 'in', 'the', 'same', 'three-month', 'period', ',', ('toll-road', 'CONJ', 'NOUN'), 'bonds', ',', 'as', 'a', 'group', ',', 'have', ('bucked', 'ADP', 'VERB'), 'this', 'trend', '.']
+---
+['On', 'these', 'bonds', ',', ('price', 'X', 'NOUN'), ('rises', 'X', 'NOUN'), ('since', 'X', 'ADP'), ('February', 'X', 'NOUN'), ('21', 'X', 'NUM'), ('easily', 'X', 'ADV'), ('outnumber', 'X', 'VERB'), ('price', 'X', 'NOUN'), ('declines', 'X', 'NOUN'), '.']
+---
+['Investors', ',', 'however', ',', 'still', 'see', 'an', 'element', 'of', ('more-than-ordinary', 'DET', 'ADJ'), 'risk', 'in', 'the', ('toll-road', 'ADJ', 'NOUN'), 'bonds', '.']
+---
+['You', 'find', 'the', 'evidence', 'of', ('that', 'PRON', 'DET'), 'in', 'the', 'chart', 'on', 'this', 'page', '.']
+---
+['Many', 'of', 'the', ('toll-road', 'ADJ', 'NOUN'), 'bonds', 'still', 'are', 'selling', 'at', 'prices', 'that', 'offer', 'the', 'prospect', 'of', 'an', 'annual', 'yield', 'of', '4', 'per', 'cent', ',', 'or', 'very', 'close', 'to', ('that', 'PRON', 'DET'), '.']
+---
+['And', 'this', 'is', 'true', 'in', 'the', 'case', 'of', 'some', 'turnpikes', 'on', 'which', 'revenues', 'have', ('risen', 'PRT', 'VERB'), ('close', 'VERB', 'ADV'), ('to', 'PRT', 'ADP'), ',', 'or', 'beyond', ',', 'the', 'point', 'at', 'which', 'the', 'roads', 'start', 'to', 'pay', 'all', 'operating', 'costs', 'plus', 'annual', 'interest', 'on', 'the', 'bonds', '.']
+---
+[('That', 'ADP', 'DET'), '4', 'per', 'cent', 'yield', 'is', 'well', 'below', 'the', 'return', 'to', 'be', 'had', 'on', 'good', 'corporation', 'bonds', '.']
+---
+['It', 'is', 'the', 'equivalent', 'of', '8', 'per', 'cent', 'for', 'an', ('unmarried', 'X', 'ADJ'), ('investor', 'X', 'NOUN'), 'with', 'more', 'than', ('$16,000', 'NUM', 'NOUN'), 'of', 'income', 'to', 'be', 'taxed', ',', 'or', 'for', 'a', 'married', 'couple', 'with', 'more', 'than', ('$32,000', 'NUM', 'NOUN'), 'of', 'taxed', 'income', '.']
+---
+[('Swelling', 'NOUN', 'VERB'), 'traffic', '.']
+---
+['A', 'new', 'report', 'on', 'the', 'earnings', 'records', 'of', ('toll', 'DET', 'NOUN'), 'roads', 'in', 'the', ('most', 'ADJ', 'ADV'), 'recent', '12-month', 'period', '--', 'ending', 'in', 'February', 'or', 'March', '--', ('shows', 'NOUN', 'VERB'), 'what', 'is', ('happening', 'ADV', 'VERB'), '.']
+---
+['The', 'report', 'is', 'based', 'on', 'a', 'survey', 'by', ('Blyth', 'NUM', 'NOUN'), '&', 'Company', ',', 'investment', 'bankers', '.']
+---
+['Nearly', 'all', 'the', ('turnpikes', 'ADJ', 'NOUN'), ('show', 'NOUN', 'VERB'), 'gains', 'in', 'net', 'revenues', 'during', 'the', 'period', '.']
+---
+['And', 'there', 'is', 'the', 'bright', 'note', ':', 'The', 'gains', 'were', 'achieved', 'in', 'the', 'face', 'of', 'temporary', 'traffic', ('lags', 'CONJ', 'NOUN'), 'late', 'in', '1960', 'and', 'early', 'in', '1961', 'as', 'a', 'result', 'of', 'business', 'recession', '.']
+---
+['Indication', ':', 'The', 'long-term', 'trend', 'of', ('turnpike', 'DET', 'NOUN'), 'traffic', 'is', 'upward', '.']
+---
+[('Look', 'NOUN', 'VERB'), ',', 'for', 'example', ',', 'at', 'the', 'Ohio', 'Turnpike', '.']
+---
+['Traffic', 'on', 'that', 'road', ('slumped', 'CONJ', 'VERB'), 'sharply', 'in', 'January', 'and', 'February', ',', ('as', 'ADV', 'ADP'), 'compared', 'with', 'those', 'same', 'months', 'in', '1960', '.']
+---
+['As', 'a', 'result', ',', 'the', ("road's", 'ADJ', 'NOUN'), 'net', 'revenues', 'in', 'the', '12', 'months', 'ending', 'March', '31', 'were', ('186', 'ADV', 'NUM'), 'per', 'cent', 'of', 'the', 'annual', 'interest', 'payments', 'on', 'the', ('turnpike', 'ADJ', 'NOUN'), 'bonds', '.']
+---
+[('That', 'PRON', 'DET'), 'was', 'up', 'from', '173', 'per', 'cent', 'in', 'the', ('preceding', 'ADJ', 'VERB'), '12', 'months', '.']
+---
+['For', 'the', 'year', ',', 'the', 'road', 'earned', '133', 'per', 'cent', 'of', 'its', 'interest', 'costs', ',', 'against', '121', 'per', 'cent', 'in', 'the', ('preceding', 'ADJ', 'VERB'), 'period', '.']
+---
+['The', ("road's", 'ADJ', 'NOUN'), 'engineers', 'look', 'for', 'further', 'improvement', 'when', 'the', 'turnpike', 'is', 'extended', 'into', 'Boston', '.']
+---
+[('Slow', 'X', 'ADJ'), ('successes', 'X', 'NOUN'), '.']
+---
+['The', ('187-mile', 'X', 'ADJ'), ('Illinois', 'X', 'NOUN'), ('State', 'X', 'NOUN'), ('Toll', 'X', 'NOUN'), ('Highway', 'X', 'NOUN'), ',', 'for', 'example', ',', 'was', 'not', 'opened', 'over', 'its', 'entire', 'length', 'until', 'December', ',', '1958', '.']
+---
+['In', 'the', '12', 'months', 'ended', 'in', 'February', ',', '1960', ',', 'the', 'highway', 'earned', ('enough', 'ADV', 'ADJ'), 'to', 'cover', '64', 'per', 'cent', 'of', 'its', 'interest', 'load', '--', 'with', 'the', 'remainder', 'paid', ('out', 'PRT', 'ADP'), 'of', 'initial', 'reserves', '.']
+---
+['Success', ',', 'for', 'many', 'turnpikes', ',', 'has', 'come', ('hard', 'ADJ', 'ADV'), '.']
+---
+['Traffic', 'frequently', 'has', 'failed', 'to', 'measure', 'up', 'to', ("engineers'", 'DET', 'NOUN'), 'rosy', 'estimates', '.']
+---
+['In', 'these', 'cases', ',', 'the', ('turnpike', 'ADJ', 'NOUN'), 'managements', 'have', 'had', 'to', 'turn', 'to', ('toll-rate', 'DET', 'NOUN'), 'increases', ',', 'or', 'to', 'costly', 'improvements', ('such', 'PRT', 'ADJ'), 'as', ('extensions', 'NUM', 'NOUN'), 'or', 'better', 'connections', 'with', 'other', 'highways', '.']
+---
+['Higher', ('tolls', 'PRT', 'NOUN'), 'are', 'planned', 'for', 'July', '1', ',', '1961', ',', 'on', 'the', 'Richmond-Petersburg', ',', 'Va.', ',', ('Turnpike', 'NUM', 'NOUN'), ',', 'and', 'proposals', 'for', 'increased', ('tolls', 'ADV', 'NOUN'), 'on', 'the', 'Texas', ('Turnpike', 'PRT', 'NOUN'), 'are', 'under', 'study', '.']
+---
+[('Easier', 'X', 'ADJ'), ('access', 'X', 'NOUN'), '.']
+---
+['Progress', 'is', 'being', 'made', ',', 'too', ',', 'in', ('improving', 'X', 'VERB'), ("motorists'", 'X', 'NOUN'), ('access', 'X', 'NOUN'), 'to', 'many', 'turnpikes', '.']
+---
+['The', 'Kansas', ('Turnpike', 'X', 'NOUN'), ('offers', 'X', 'VERB'), ('an', 'X', 'DET'), ('illustration', 'X', 'NOUN'), '.']
+---
+['Net', 'earnings', 'of', 'that', 'road', ('rose', 'NOUN', 'VERB'), 'from', '62', 'per', 'cent', 'of', 'interest', 'requirements', 'in', 'calendar', '1957', 'to', '86', 'per', 'cent', 'in', 'the', '12', 'months', 'ended', 'Feb.', '28', ',', '1961', '.']
+---
+['Further', 'improvements', 'in', 'earnings', 'of', 'the', 'Kansas', ('Turnpike', 'PRT', 'NOUN'), 'are', 'expected', 'late', 'in', '1961', ',', 'with', 'the', 'opening', 'of', 'a', 'new', ('bypass', 'VERB', 'NOUN'), 'at', ('Wichita', 'NUM', 'NOUN'), ',', 'and', 'still', 'later', 'when', 'the', ('turnpike', 'X', 'NOUN'), ('gets', 'X', 'VERB'), ('downtown', 'X', 'NOUN'), ('connections', 'X', 'NOUN'), 'in', 'both', 'Kansas', 'City', ',', ('Kans.', 'NUM', 'NOUN'), ',', 'and', 'Kansas', 'City', ',', 'Mo.', '.']
+---
+['Meanwhile', ',', 'there', 'appears', 'to', 'be', 'enough', 'money', 'in', 'the', ("road's", 'ADJ', 'NOUN'), 'reserve', 'fund', 'to', 'cover', 'the', 'interest', 'deficiency', 'for', 'eight', 'more', 'years', '.']
+---
+['Investors', 'studying', 'the', ('toll-road', 'ADJ', 'NOUN'), 'bonds', 'for', ('opportunities', 'PRON', 'NOUN'), 'find', 'that', 'not', 'all', 'roads', 'are', 'nearing', 'their', 'goals', '.']
+---
+['Traffic', 'and', 'revenues', 'on', 'the', 'Chicago', ('Skyway', 'PRT', 'NOUN'), 'have', 'been', 'a', 'great', 'disappointment', 'to', ('planners', 'NUM', 'NOUN'), 'and', 'investors', 'alike', '.']
+---
+['If', 'nothing', 'is', 'done', ',', 'the', 'prospect', 'is', 'that', 'that', 'road', 'will', 'be', 'in', ('default', 'NUM', 'NOUN'), 'of', 'interest', 'in', '1962', '.']
+---
+['West', 'Virginia', ('toll', 'CONJ', 'NOUN'), 'bonds', 'have', ('defaulted', 'ADV', 'VERB'), 'in', 'interest', 'for', 'months', ',', 'and', ',', 'despite', 'recent', 'improvement', 'in', 'revenues', ',', 'holders', 'of', 'the', 'bonds', 'are', 'faced', 'with', 'more', 'of', 'the', 'same', '.']
+---
+["It's", 'going', 'to', 'take', 'time', 'for', 'investors', 'to', 'learn', 'how', 'many', 'of', 'the', ('toll-road', 'ADJ', 'NOUN'), 'bonds', 'will', 'pay', 'out', 'in', 'full', '.']
+---
+['Already', ',', 'however', ',', 'several', 'of', 'the', 'turnpikes', 'are', 'earning', ('enough', 'ADV', 'ADJ'), 'to', 'cover', 'interest', 'requirements', 'by', 'comfortable', 'margins', '.']
+---
+['Many', 'others', 'are', ('attracting', 'ADP', 'VERB'), 'the', 'traffic', 'needed', 'to', 'push', 'revenues', 'up', 'to', 'the', 'break-even', 'point', '.']
+---
+['A', 'top', 'American', 'official', ',', 'after', 'a', 'look', 'at', ("Europe's", 'DET', 'NOUN'), 'factories', ',', 'thinks', 'the', 'U.S.', 'is', 'in', 'a', '``', 'very', 'serious', 'situation', "''", ('competitively', 'NUM', 'ADV'), '.']
+---
+['Commerce', 'Secretary', ('Luther', 'CONJ', 'NOUN'), 'Hodges', ',', 'accompanied', 'by', 'a', 'member', 'of', 'our', 'staff', ',', 'on', 'May', '10', ('toured', 'ADJ', 'VERB'), 'plants', 'of', 'two', 'of', ("Italy's", 'DET', 'NOUN'), 'biggest', 'companies', '--', ('Fiat', 'NUM', 'NOUN'), ',', 'the', 'auto', 'producer', ',', 'and', ('Olivetti', 'NUM', 'NOUN'), ',', 'maker', 'of', ('typewriters', 'NUM', 'NOUN'), 'and', ('calculating', 'ADJ', 'VERB'), 'machines', '.']
+---
+['Our', 'staff', 'man', ('cabled', 'NOUN', 'VERB'), 'from', ('Turin', 'NUM', 'NOUN'), ('as', 'ADV', 'ADP'), 'follows', '--']
+---
+['``', 'Follow', 'Secretary', 'Hodges', 'through', 'the', ('Fiat', 'ADJ', 'NOUN'), 'plant', ',', 'and', 'you', 'learn', 'this', ':']
+---
+['``', 'One', ',', 'modern', 'equipment', '--', ('much', 'ADV', 'ADJ'), 'of', 'it', 'supplied', 'under', 'the', 'Marshall', 'Plan', '--', ('enables', 'X', 'VERB'), ('Fiat', 'X', 'NOUN'), 'to', 'turn', 'out', ('2,100', 'VERB', 'NUM'), 'cars', 'a', 'day', '.']
+---
+['A', 'skilled', 'worker', 'on', 'the', 'assembly', 'line', ',', 'for', 'example', ',', ('earns', 'X', 'VERB'), ('$37', 'X', 'NOUN'), ('a', 'X', 'DET'), 'week', '.']
+---
+['``', 'Three', ',', 'labor', 'troubles', 'are', ('infrequent', 'ADV', 'ADJ'), '.']
+---
+[('Fiat', 'DET', 'NOUN'), 'officials', 'say', 'they', 'have', 'had', 'no', 'strikes', 'for', 'more', 'than', 'six', 'years', '.']
+---
+['``', ('Olivetti', 'PRON', 'NOUN'), 'had', 'a', 'special', 'interest', 'for', 'Hodges', '.']
+---
+[('Olivetti', 'PRON', 'NOUN'), 'took', ('over', 'ADP', 'PRT'), ('Underwood', 'NUM', 'NOUN'), ',', 'the', 'U.S.', 'typewriter', 'maker', ',', 'in', 'late', '1959', '.']
+---
+['Within', 'a', 'year', ',', 'without', 'reducing', 'wages', ',', ("Underwood's", 'CONJ', 'NOUN'), 'production', 'costs', 'were', 'cut', 'one', 'third', ',', 'prices', 'were', 'slashed', '.']
+---
+['The', 'result', 'has', 'been', 'that', ('exports', 'NUM', 'NOUN'), 'of', ('Underwood', 'DET', 'NOUN'), 'products', 'have', 'doubled', '.']
+---
+['``', 'The', ('Olivetti', 'X', 'NOUN'), ('plant', 'X', 'NOUN'), ('near', 'X', 'ADP'), ('Turin', 'X', 'NOUN'), ('has', 'X', 'VERB'), ('modern', 'X', 'ADJ'), ('layout', 'X', 'NOUN'), ',', 'modern', 'machinery', '.']
+---
+['The', 'firm', 'is', ('design-conscious', 'ADV', 'ADJ'), ',', ('sales-conscious', 'NUM', 'ADJ'), ',', ('advertising-conscious', 'NUM', 'ADJ'), '.']
+---
+['``', 'Hodges', 'predicted', ':', "'", 'I', 'think', 'we', 'will', 'see', ('more', 'ADV', 'ADJ'), 'foreign', 'firms', 'coming', 'to', 'the', 'U.S.', '.']
+---
+['Foreign', 'competition', 'has', 'become', 'so', 'severe', 'in', 'certain', 'textiles', 'that', 'Washington', 'is', 'exploring', 'new', 'ways', 'of', ('handling', 'X', 'VERB'), ('competitive', 'X', 'ADJ'), ('imports', 'X', 'NOUN'), '.']
+---
+['The', 'recently', 'unveiled', 'Kennedy', ('moves', 'VERB', 'NOUN'), 'to', 'control', 'the', 'international', ('textile', 'ADJ', 'NOUN'), 'market', 'can', 'be', 'significant', 'for', 'American', 'businessmen', 'in', 'many', 'lines', '.']
+---
+['Important', 'aspects', 'of', 'the', 'Kennedy', ('textile', 'PRT', 'NOUN'), ('plans', 'VERB', 'NOUN'), 'are', 'these', ':']
+---
+['An', 'international', 'conference', 'of', 'the', 'big', ('textile-importing', 'NOUN', 'ADJ'), 'and', 'textile-exporting', 'countries', 'will', 'be', 'called', 'shortly', 'by', 'President', 'Kennedy', '.']
+---
+['Chief', 'aims', 'of', 'the', 'proposed', 'conference', 'are', ('worth', 'NOUN', 'ADJ'), 'noting', '.']
+---
+['The', 'U.S.', 'will', 'try', 'to', 'get', 'agreement', 'among', 'the', ('industrialized', 'ADJ', 'VERB'), 'countries', 'to', 'take', 'more', ('textile', 'X', 'ADJ'), ('imports', 'X', 'NOUN'), 'from', 'the', 'less-developed', 'countries', 'over', 'the', 'years', '.']
+---
+['Point', 'is', ('that', 'PRON', 'ADP'), 'developing', 'countries', 'often', 'build', 'up', 'a', ('textile', 'ADJ', 'NOUN'), 'industry', ('first', 'ADJ', 'ADV'), ',', ('need', 'NOUN', 'VERB'), 'encouragement', 'to', 'get', 'on', 'their', 'feet', '.']
+---
+['If', 'they', 'have', 'trouble', ('exporting', 'NOUN', 'VERB'), ',', 'international', 'bill', 'for', 'their', 'support', 'will', 'grow', 'larger', 'than', 'it', 'otherwise', 'would', '.']
+---
+['Idea', 'is', 'to', 'let', 'these', 'countries', 'earn', 'their', 'way', ('as', 'ADP', 'ADV'), 'much', 'as', 'possible', '.']
+---
+['At', 'the', 'same', 'time', ',', 'another', 'purpose', 'of', 'the', 'conference', 'will', 'be', 'to', 'get', 'certain', ('low-wage', 'ADJ', 'NOUN'), 'countries', ('to', 'ADP', 'PRT'), ('control', 'NOUN', 'VERB'), ('textile', 'X', 'NOUN'), ('exports', 'X', 'NOUN'), '--', 'especially', ('dumping', 'VERB', 'NOUN'), 'of', 'specific', 'products', '--', 'to', ('high-wage', 'X', 'NOUN'), ('textile-producing', 'X', 'ADJ'), 'countries', '.']
+---
+['Japan', ',', 'since', '1957', ',', 'has', 'been', '``', 'voluntarily', "''", ('curbing', 'X', 'VERB'), ('exports', 'X', 'NOUN'), 'of', ('textiles', 'NUM', 'NOUN'), 'to', 'the', 'U.S.', '.']
+---
+['Hong', 'Kong', ',', 'India', 'and', 'Pakistan', 'have', 'been', ('limiting', 'X', 'VERB'), ('exports', 'X', 'NOUN'), 'of', 'certain', 'types', 'of', ('textiles', 'NUM', 'NOUN'), 'to', 'Britain', 'for', 'several', 'years', 'under', 'the', '``', ('Lancashire', 'X', 'NOUN'), ('Pact', 'X', 'NOUN'), "''", '.']
+---
+['The', ('Japanese', 'ADJ', 'NOUN'), 'want', 'to', 'increase', ('exports', 'ADV', 'NOUN'), 'to', 'the', 'U.S.', 'While', 'they', 'have', 'been', ('curbing', 'DET', 'VERB'), 'shipments', ',', 'they', 'have', 'watched', 'Hong', 'Kong', ('step', 'NOUN', 'VERB'), ('in', 'ADP', 'PRT'), 'and', 'capture', 'an', 'expanding', ('share', 'VERB', 'NOUN'), 'of', 'the', 'big', 'U.S.', 'market', '.']
+---
+[('Hong', 'X', 'NOUN'), ('Kong', 'X', 'NOUN'), ('interests', 'X', 'NOUN'), ('loudly', 'X', 'ADV'), ('protest', 'X', 'VERB'), ('limiting', 'X', 'VERB'), ('their', 'X', 'DET'), ('exports', 'X', 'NOUN'), 'to', 'Britain', ',', 'while', ('Spanish', 'NUM', 'ADJ'), 'and', ('Portuguese', 'X', 'ADJ'), ('textiles', 'X', 'NOUN'), ('pour', 'X', 'VERB'), ('into', 'X', 'ADP'), ('British', 'X', 'ADJ'), ('market', 'X', 'NOUN'), ('unrestrictedly', 'X', 'ADV'), '.']
+---
+['The', 'Indians', 'and', ('Pakistanis', 'PRON', 'NOUN'), 'are', ('chafing', 'ADV', 'VERB'), 'under', 'similar', 'restrictions', 'on', 'the', 'British', 'market', 'for', 'similar', 'reasons', '.']
+---
+['The', 'Kennedy', ('hope', 'VERB', 'NOUN'), 'is', ('that', 'PRON', 'ADP'), ',', 'at', 'the', 'conference', 'or', 'through', ('bilateral', 'DET', 'ADJ'), 'talks', ',', 'the', ('low-wage', 'X', 'NOUN'), ('textile-producing', 'X', 'ADJ'), 'countries', 'in', 'Asia', 'and', 'Europe', 'will', 'see', ('that', 'PRON', 'ADP'), '``', 'dumping', "''", 'practices', 'cause', 'friction', ('all', 'PRT', 'ADV'), 'around', 'and', 'may', ('result', 'NOUN', 'VERB'), 'in', ('import', 'X', 'NOUN'), ('quotas', 'X', 'NOUN'), '.']
+---
+[('Gradual', 'PRON', 'ADJ'), ',', 'controlled', 'expansion', 'of', 'the', "world's", ('textile', 'CONJ', 'NOUN'), 'trade', 'is', 'what', 'President', 'Kennedy', 'wants', '.']
+---
+['This', ('may', 'NOUN', 'VERB'), 'point', 'the', 'way', 'toward', 'international', ('stabilization', 'ADJ', 'NOUN'), 'agreements', 'in', 'other', 'products', '.']
+---
+["It's", 'an', 'important', 'clue', 'to', 'Washington', ('thinking', 'VERB', 'NOUN'), '.']
+---
+[('Note', 'NOUN', 'VERB'), ',', 'too', ',', 'that', 'the', 'Kennedy', ('textile', 'X', 'NOUN'), ('plan', 'X', 'NOUN'), ('looks', 'X', 'VERB'), ('toward', 'X', 'ADP'), ('modernization', 'X', 'NOUN'), ('or', 'X', 'CONJ'), ('shrinkage', 'X', 'NOUN'), 'of', 'the', 'U.S.', ('textile', 'CONJ', 'NOUN'), 'industry', '.']
+---
+['In', 'veiled', 'terms', ',', "that's", 'what', 'the', 'Kennedy', 'Administration', 'is', 'saying', 'to', 'the', 'American', ('textile', 'ADJ', 'NOUN'), 'industry', '.']
+---
+['The', 'Government', 'will', 'help', 'in', ('transferring', 'DET', 'VERB'), 'companies', 'and', 'workers', 'into', 'new', 'lines', ',', ('where', 'X', 'ADV'), ('modernization', 'X', 'NOUN'), ("doesn't", 'X', 'VERB'), ('seem', 'X', 'VERB'), ('feasible', 'X', 'ADJ'), '.']
+---
+['Special', 'depreciation', 'on', 'new', ('textile', 'ADJ', 'NOUN'), 'machinery', 'may', 'be', 'allowed', '.']
+---
+[('Import', 'VERB', 'NOUN'), ('quotas', 'PRT', 'NOUN'), "aren't", 'ruled', 'out', 'where', 'the', 'national', 'interest', 'is', 'involved', '.']
+---
+['But', 'the', 'Kennedy', 'Administration', ("doesn't", 'X', 'VERB'), ('favor', 'X', 'VERB'), ('import', 'X', 'NOUN'), ('quotas', 'X', 'NOUN'), '.']
+---
+['Rather', ',', 'they', 'are', 'impressed', 'with', 'the', 'British', "Government's", 'success', 'in', ('forcing', 'NUM', 'VERB'), '--', 'and', 'helping', '--', 'the', 'British', ('textile', 'ADJ', 'NOUN'), 'industry', ('to', 'ADP', 'PRT'), ('shrink', 'NUM', 'VERB'), 'and', 'to', 'change', 'over', 'to', 'other', 'products', '.']
+---
+[("What's", 'X', 'PRT'), ('happening', 'X', 'VERB'), 'in', ('textiles', 'PRON', 'NOUN'), 'can', 'be', ('handwriting', 'ADV', 'NOUN'), 'on', 'the', 'wall', 'for', 'other', 'lines', 'having', 'difficulty', 'competing', 'with', ('imports', 'NUM', 'NOUN'), 'from', ('low-wage', 'DET', 'NOUN'), 'countries', '.']
+---
+['Among', 'the', 'highest-paid', 'workers', 'in', 'the', 'world', 'are', 'U.S.', ('coal', 'X', 'NOUN'), ('miners', 'X', 'NOUN'), '.']
+---
+['Yet', 'U.S.', 'coal', 'is', ('cheap', 'DET', 'ADJ'), ('enough', 'ADJ', 'ADV'), 'to', 'make', 'foreign', ("steelmakers'", 'X', 'NOUN'), ('mouths', 'X', 'NOUN'), ('water', 'X', 'VERB'), '.']
+---
+['Steel', 'Company', 'of', ('Wales', 'NUM', 'NOUN'), ',', 'a', 'British', 'steelmaker', ',', 'wants', 'to', 'bring', ('in', 'ADP', 'PRT'), 'Virginia', 'coal', ',', 'cut', 'down', ('on', 'ADP', 'PRT'), 'its', 'takings', 'of', ('Welsh', 'DET', 'ADJ'), 'coal', 'in', 'order', 'to', 'be', 'able', 'to', 'compete', 'more', 'effectively', '--', 'especially', 'in', 'foreign', 'markets', '.']
+---
+['Virginia', 'coal', ',', 'delivered', 'by', 'ship', 'in', ('Wales', 'NUM', 'NOUN'), ',', 'will', 'be', ('about', 'ADP', 'ADV'), ('$2.80', 'X', 'NOUN'), ('a', 'X', 'DET'), ('ton', 'X', 'NOUN'), ('cheaper', 'X', 'ADJ'), ('than', 'X', 'ADP'), ('Welsh', 'X', 'ADJ'), ('coal', 'X', 'NOUN'), ('delivered', 'X', 'VERB'), ('by', 'X', 'ADP'), ('rail', 'X', 'NOUN'), ('from', 'X', 'ADP'), ('nearby', 'X', 'ADJ'), ('mines', 'X', 'NOUN'), '.']
+---
+['U.S.', 'coal', 'is', ('cheap', 'ADV', 'ADJ'), ',', 'despite', 'high', 'wages', ',', ('because', 'ADV', 'ADP'), 'of', 'widespread', 'mechanization', 'of', ('mines', 'NUM', 'NOUN'), ',', ('wide', 'X', 'ADJ'), ('coal', 'X', 'NOUN'), ('seams', 'X', 'NOUN'), ',', ('attactive', 'CONJ', 'ADJ'), 'rates', 'on', 'ocean', 'freight', '.']
+---
+['Many', 'of', 'the', ('coal', 'X', 'NOUN'), ('seams', 'X', 'NOUN'), 'in', 'the', ('nationalized', 'X', 'VERB'), ('British', 'X', 'ADJ'), ('mines', 'X', 'NOUN'), ('are', 'X', 'VERB'), ('twisting', 'X', 'VERB'), ',', 'narrow', 'and', 'very', ('deep', 'ADV', 'ADJ'), '.']
+---
+[('Productivity', 'ADV', 'NOUN'), 'of', 'U.S.', ('miners', 'PRT', 'NOUN'), 'is', 'twice', ('that', 'ADP', 'DET'), 'of', 'the', ('British', 'ADJ', 'NOUN'), '.']
+---
+[('Welsh', 'X', 'ADJ'), ('coal', 'X', 'NOUN'), ('miners', 'X', 'NOUN'), ',', ('Communist-led', 'NUM', 'ADJ'), ',', 'are', 'up', 'in', 'arms', 'at', 'the', 'suggestion', 'that', 'the', 'steel', 'company', 'bring', ('in', 'ADP', 'PRT'), 'American', 'coal', '.']
+---
+['They', 'threaten', ('to', 'ADP', 'PRT'), ('strike', 'NOUN', 'VERB'), '.']
+---
+['The', 'British', 'Government', 'will', 'have', 'to', 'decide', 'whether', 'to', 'let', 'U.S.', 'coal', ('in', 'ADP', 'PRT'), '.']
+---
+['The', 'British', 'coal', 'industry', 'is', ('unprofitable', 'ADV', 'ADJ'), ',', 'has', 'large', 'coal', 'stocks', 'it', "can't", 'sell', '.']
+---
+['Every', 'library', 'borrower', ',', 'or', 'at', 'least', 'those', 'whose', 'taste', 'goes', 'beyond', 'the', ('five-cent', 'X', 'ADJ'), ('fiction', 'X', 'NOUN'), ('rentals', 'X', 'NOUN'), ',', 'knows', 'what', 'it', 'is', 'to', 'hear', 'the', 'librarian', 'say', 'apologetically', ',', '``', "I'm", ('sorry', 'VERB', 'ADJ'), ',', 'but', 'we', "don't", 'have', ('that', 'ADP', 'DET'), 'book', '.']
+---
+['Behind', 'this', 'reply', ',', 'and', 'its', 'many', 'variations', ',', 'is', 'the', 'ever-present', 'budget', 'problem', 'all', ('libraries', 'VERB', 'NOUN'), 'must', 'face', ',', 'from', 'the', 'largest', 'to', 'the', 'smallest', '.']
+---
+['What', 'to', 'buy', ('out', 'PRT', 'ADP'), 'of', 'the', "year's", ('grist', 'X', 'NOUN'), ('of', 'X', 'ADP'), ('nearly', 'X', 'ADV'), ('15,000', 'X', 'NUM'), ('book', 'X', 'NOUN'), ('titles', 'X', 'NOUN'), '?', '?']
+---
+['What', 'to', 'buy', 'for', 'adult', 'and', 'child', 'readers', ',', 'for', ('lovers', 'NUM', 'NOUN'), 'of', ('fiction', 'NUM', 'NOUN'), 'and', ('nonfiction', 'NUM', 'NOUN'), ',', 'for', 'a', ('clientele', 'VERB', 'NOUN'), 'whose', ('wants', 'VERB', 'NOUN'), 'are', 'incredibly', 'diversified', ',', 'when', 'your', 'budget', 'is', 'pitifully', 'small', '?', '?']
+---
+['Most', 'library', ('budgets', 'X', 'NOUN'), ('are', 'X', 'VERB'), ('hopelessly', 'X', 'ADV'), ('inadequate', 'X', 'ADJ'), '.']
+---
+['A', ('startlingly', 'ADJ', 'ADV'), 'high', 'percentage', 'do', 'not', ('exceed', 'ADJ', 'VERB'), '$500', 'annually', ',', 'which', 'includes', 'the', ("librarian's", 'ADJ', 'NOUN'), 'salary', ',', 'and', 'not', 'even', 'the', 'New', 'York', ('Public', 'NOUN', 'ADJ'), 'has', 'enough', 'money', 'to', 'meet', 'its', 'needs', '--', 'this', 'in', 'the', "world's", ('richest', 'CONJ', 'ADJ'), 'city', '.']
+---
+['The', 'plight', 'of', 'a', 'small', 'community', 'library', 'is', ('proportionately', 'DET', 'ADV'), 'worse', '.']
+---
+['Confronted', 'with', 'this', 'situation', ',', ('most', 'ADV', 'ADJ'), ('libraries', '.', 'NOUN'), 'either', 'endure', 'the', 'severe', 'limitations', 'of', 'their', 'budgets', 'and', 'do', 'what', 'they', 'can', 'with', 'what', 'they', 'have', ',', 'or', 'else', 'depend', 'on', 'the', 'bounty', 'of', 'patrons', 'and', 'local', 'governments', 'to', 'supplement', 'their', 'annual', 'funds', '.']
+---
+['In', 'some', 'parts', 'of', 'the', 'country', ',', 'however', ',', 'a', 'co-operative', 'movement', 'has', 'begun', 'to', 'grow', ',', 'under', 'the', 'wing', 'of', 'state', 'governments', ',', 'whereby', ',', 'with', 'the', 'financial', 'help', 'of', 'the', 'state', ',', ('libraries', 'PRON', 'NOUN'), 'share', 'their', 'book', 'resources', 'on', 'a', 'county-wide', 'or', 'regional', 'basis', '.']
+---
+['Because', 'it', 'is', 'so', 'large', 'a', 'state', ',', 'with', ('marked', 'X', 'VERB'), ('contrasts', 'X', 'NOUN'), ('in', 'X', 'ADP'), ('population', 'X', 'NOUN'), ('density', 'X', 'NOUN'), ',', 'the', 'organization', 'of', 'the', 'New', 'York', ('co-operative', 'X', 'NOUN'), ('offers', 'X', 'VERB'), ('a', 'X', 'DET'), ('cross-section', 'X', 'NOUN'), 'of', 'how', 'the', 'plan', ('works', 'NOUN', 'VERB'), '.']
+---
+['At', 'one', ('extreme', 'ADV', 'NOUN'), 'are', 'the', 'systems', 'of', ('upper', 'DET', 'ADJ'), 'New', 'York', 'State', ',', 'where', ('libraries', 'ADV', 'NOUN'), 'in', 'two', 'or', 'more', 'counties', 'combine', 'to', 'serve', 'a', 'large', ',', ('sparsely', 'X', 'ADV'), ('populated', 'X', 'VERB'), 'area', '.']
+---
+['At', 'the', 'other', 'are', 'organizations', ('like', 'ADP', 'VERB'), 'the', ('newly', 'X', 'ADV'), ('formed', 'X', 'VERB'), ('Nassau', 'X', 'NOUN'), 'Library', 'System', ',', 'in', 'a', ('high-density', 'ADJ', 'NOUN'), 'area', ',', 'with', ('ample', 'DET', 'ADJ'), 'resources', 'and', 'a', 'rapidly', 'growing', 'territory', 'to', 'serve', '.']
+---
+['Both', 'these', 'types', ',', 'and', 'those', 'in', 'between', ',', 'are', 'in', 'existence', 'by', 'reason', 'of', 'a', 'legislative', 'interest', 'in', ('libraries', 'DET', 'NOUN'), 'that', 'began', 'at', 'Albany', ('as', 'ADP', 'ADV'), ('early', 'ADJ', 'ADV'), 'as', '1950', ',', 'with', 'the', 'creation', 'by', 'the', 'legislature', 'of', 'county', 'library', 'systems', 'financed', 'by', 'county', 'governments', 'with', ('matching', 'ADJ', 'VERB'), 'funds', 'from', 'the', 'state', '.']
+---
+['It', 'was', 'a', 'step', 'in', 'the', 'right', 'direction', ',', 'but', 'it', 'took', 'an', 'additional', 'act', 'passed', 'in', '1958', 'to', 'establish', 'fully', 'the', ('thriving', 'ADJ', 'VERB'), 'systems', 'of', 'today', '.']
+---
+['An', 'earlier', 'difficulty', 'was', 'overcome', 'by', 'making', 'it', ('clear', 'VERB', 'ADJ'), 'that', 'individual', 'libraries', 'in', 'any', 'area', 'might', 'join', 'or', 'not', ',', 'as', 'they', 'saw', 'fit', '.']
+---
+['Some', 'library', 'boards', 'are', ('wary', 'ADV', 'ADJ'), 'of', 'the', 'plan', '.']
+---
+['A', 'large', ',', ('well-stocked', 'CONJ', 'ADJ'), 'library', ',', 'surrounded', 'in', 'a', 'county', 'by', 'smaller', 'ones', ',', 'may', 'feel', 'that', 'the', 'demands', 'on', 'its', 'resources', 'are', ('likely', 'ADJ', 'ADV'), 'to', 'be', 'too', 'great', '.']
+---
+['A', 'small', 'library', 'may', ('cherish', 'ADP', 'VERB'), 'its', 'independence', 'and', 'established', 'ways', ',', 'and', 'resist', ('joining', 'ADV', 'VERB'), 'in', 'a', 'cooperative', 'movement', ('that', 'ADP', 'PRON'), 'sometimes', 'seems', ('radical', 'ADV', 'ADJ'), 'to', 'older', 'members', 'of', 'the', 'board', '.']
+---
+['Within', 'a', 'system', ',', 'however', ',', 'the', 'autonomy', 'of', 'each', 'member', 'library', 'is', ('preserved', 'ADV', 'VERB'), '.']
+---
+['The', 'local', 'community', ('maintains', 'CONJ', 'VERB'), 'responsibility', 'for', 'the', 'financial', 'support', 'of', 'its', 'own', 'library', 'program', ',', 'facilities', ',', 'and', 'services', ',', 'but', 'wider', 'resources', 'and', 'additional', 'services', 'become', 'available', 'through', 'membership', 'in', 'a', 'system', '.']
+---
+['So', 'obvious', 'are', 'these', 'advantages', 'that', 'nearly', '95', 'per', 'cent', 'of', 'the', 'population', 'of', 'New', 'York', 'State', 'now', 'has', ('access', 'ADV', 'NOUN'), 'to', 'a', 'system', ',', 'and', 'enthusiastic', 'librarians', ('foresee', 'ADP', 'VERB'), 'the', 'day', ',', 'not', 'too', ('distant', 'ADV', 'ADJ'), ',', 'when', 'all', 'the', 'libraries', 'in', 'the', 'state', 'will', 'belong', 'to', 'a', 'co-op', '.']
+---
+['To', 'set', 'up', 'a', 'co-operative', 'library', 'system', ',', 'the', 'law', ('requires', 'ADP', 'VERB'), 'a', 'central', 'book', 'collection', 'of', ('100,000', 'X', 'NUM'), ('nonfiction', 'X', 'NOUN'), ('volumes', 'X', 'NOUN'), 'as', 'the', 'nucleus', ',', 'and', 'the', 'system', 'is', 'organized', ('around', 'ADV', 'ADP'), 'it', '.']
+---
+['Each', 'system', ('develops', 'X', 'VERB'), ('differently', 'X', 'ADV'), ',', 'according', 'to', 'the', 'area', 'it', 'serves', ',', 'but', 'the', 'universal', 'goal', 'is', 'to', 'pool', 'the', 'resources', 'of', 'a', 'given', 'area', 'for', 'maximum', 'efficiency', '.']
+---
+['The', 'basic', 'state', 'grant', 'is', ('thirty', 'DET', 'NUM'), 'cents', 'for', 'each', 'person', 'served', ',', 'and', 'there', 'is', 'a', 'further', 'book', 'incentive', 'grant', ('that', 'PRON', 'DET'), 'provides', 'an', 'extra', 'twenty', 'cents', ('up', 'PRT', 'ADP'), 'to', ('fifty', 'X', 'NUM'), ('cents', 'X', 'NOUN'), ('per', 'X', 'ADP'), ('capita', 'X', 'NOUN'), ',', 'if', 'a', 'library', 'spends', 'a', 'certain', 'number', 'of', 'dollars', '.']
+---
+['In', ('Nassau', 'DET', 'NOUN'), 'County', ',', 'for', 'example', ',', 'the', 'heavily', 'settled', 'Long', 'Island', 'suburb', 'of', 'New', 'York', 'City', ',', 'the', 'system', 'is', 'credited', 'by', 'the', 'state', 'with', 'serving', 'one', 'million', 'persons', ',', 'a', 'figure', 'that', 'has', 'doubled', 'since', '1950', '.']
+---
+['The', ('Nassau', 'X', 'NOUN'), ('system', 'X', 'NOUN'), ('recognizes', 'X', 'VERB'), 'that', 'its', 'major', 'task', 'it', ('to', 'ADP', 'PRT'), ('broaden', 'DET', 'VERB'), 'reference', 'service', ',', 'what', 'with', 'the', 'constant', 'expansion', 'of', 'education', 'and', 'knowledge', ',', 'and', 'the', 'pressure', 'of', 'population', 'growth', 'in', 'a', 'metropolitan', 'area', '.']
+---
+['The', 'need', 'is', 'for', 'reference', 'works', 'of', 'a', ('more', 'ADJ', 'ADV'), 'specialized', 'nature', 'than', 'individual', 'libraries', ',', 'adequate', 'to', 'satisfy', ('everyday', 'DET', 'ADJ'), 'needs', ',', 'could', 'afford', '.']
+---
+[('Nassau', 'PRON', 'NOUN'), 'is', 'currently', 'building', 'a', 'central', 'collection', 'of', 'reference', 'materials', 'in', 'its', ('Hempstead', 'ADJ', 'NOUN'), 'headquarters', ',', 'which', 'will', 'reach', 'its', 'goal', 'of', ('100,000', 'X', 'NUM'), ('volumes', 'X', 'NOUN'), ('by', 'X', 'ADP'), ('1965', 'X', 'NUM'), '.']
+---
+['Basic', 'reference', ('tools', 'PRT', 'NOUN'), 'are', 'the', 'backbone', 'of', 'the', 'collection', ',', 'but', 'there', 'is', 'also', ('specialization', 'ADV', 'NOUN'), 'in', 'science', 'and', 'technology', ',', 'an', 'indicated', 'weakness', 'in', 'local', 'libraries', '.']
+---
+['On', ('microfilm', 'NUM', 'NOUN'), ',', 'headquarters', 'also', 'has', 'a', 'file', 'of', 'the', 'New', 'York', 'Times', 'from', 'its', ('founding', 'NOUN', 'VERB'), 'in', '1851', 'to', 'the', 'present', 'day', ',', 'as', 'well', ('as', 'ADV', 'ADP'), 'bound', ('volumes', 'ADV', 'NOUN'), 'of', 'important', 'periodicals', '.']
+---
+['The', 'entire', 'headquarters', 'collection', 'is', 'available', 'to', 'the', 'patrons', 'of', 'all', 'members', 'on', ('interlibrary', 'DET', 'ADJ'), 'loans', '.']
+---
+['Headquarters', 'gets', ('about', 'ADP', 'ADV'), '100', 'requests', 'every', 'day', '.']
+---
+['It', 'is', ('connected', 'ADV', 'VERB'), 'by', ('teletype', 'NUM', 'NOUN'), 'with', 'the', 'State', 'Library', 'in', 'Albany', ',', 'which', 'will', 'supply', 'any', 'book', 'to', 'a', 'system', 'that', 'the', 'system', 'itself', 'cannot', 'provide', '.']
+---
+['The', 'books', 'are', 'carried', 'around', 'by', 'truck', 'in', ('canvas', 'DET', 'NOUN'), 'bags', 'from', 'headquarters', 'to', 'the', 'other', 'libraries', '.']
+---
+['Each', 'subject', 'center', 'library', 'was', 'chosen', 'because', 'of', 'its', 'demonstrated', 'strength', 'in', 'a', 'particular', 'area', ',', 'which', 'headquarters', 'could', 'then', 'build', ('upon', 'ADV', 'ADP'), '.']
+---
+['East', 'Meadow', 'has', 'philosophy', ',', ('psychology', 'NUM', 'NOUN'), ',', 'and', ('religion', 'NUM', 'NOUN'), ';', ';']
+---
+[('Freeport', 'DET', 'NOUN'), ('houses', 'NOUN', 'VERB'), 'social', 'science', ',', 'pure', 'science', ',', 'and', 'language', ';', ';']
+---
+['history', ',', ('biography', 'NUM', 'NOUN'), ',', 'and', 'education', 'are', ('centered', 'ADV', 'VERB'), 'in', ('Hempstead', 'NUM', 'NOUN'), ';', ';']
+---
+[('Levittown', 'PRON', 'NOUN'), 'has', 'applied', 'science', ',', 'business', ',', 'and', 'literature', ';', ';']
+---
+['while', ('Hewlett-Woodmere', 'PRON', 'NOUN'), 'is', 'the', 'repository', 'of', 'art', ',', 'music', ',', 'and', 'foreign', 'languages', '.']
+---
+['Public', 'libraries', 'in', ('Nassau', 'DET', 'NOUN'), 'County', 'have', 'been', 'lending', 'books', 'to', 'each', 'other', 'by', 'mail', 'for', 'a', 'quarter-century', ',', 'but', 'the', 'system', ('enables', 'ADP', 'VERB'), 'this', 'process', 'to', 'operate', 'on', 'an', 'organized', 'and', 'far', ('more', 'ADJ', 'ADV'), 'comprehensive', 'basis', '.']
+---
+['Local', ('libraries', 'PRT', 'NOUN'), 'find', ',', 'too', ',', 'that', 'the', 'new', 'plan', ('saves', 'CONJ', 'VERB'), 'tax', 'dollars', 'because', 'books', 'can', 'be', 'bought', 'through', 'the', 'system', ',', 'and', 'since', 'the', 'system', 'buys', 'in', ('bulk', 'DET', 'NOUN'), 'it', 'is', 'able', 'to', 'obtain', 'larger', 'discounts', 'than', 'would', 'be', 'available', 'to', 'an', 'individual', 'library', '.']
+---
+['The', 'system', ('passes', 'NOUN', 'VERB'), ('on', 'ADP', 'PRT'), 'these', 'savings', 'to', 'its', 'members', '.']
+---
+['Further', 'money', 'is', 'saved', 'through', 'economy', 'in', ('bookkeeping', 'NUM', 'NOUN'), 'and', 'clerical', 'detail', 'as', 'the', 'result', 'of', 'central', 'billing', '.']
+---
+['Schools', 'and', 'community', 'groups', 'turn', 'to', 'the', 'headquarters', 'film', 'library', 'for', ('documentary', 'NUM', 'NOUN'), ',', 'art', ',', 'and', 'experimental', 'films', 'to', 'show', 'at', ('libraries', 'NUM', 'NOUN'), ('that', 'ADP', 'PRON'), ('sponsor', 'NOUN', 'VERB'), 'local', 'programs', ',', 'and', 'to', 'organizations', 'in', 'member', 'communities', '.']
+---
+['The', ('most', 'ADJ', 'ADV'), 'recent', 'film', 'catalogue', ',', 'available', 'at', 'each', 'library', ',', ('lists', 'X', 'VERB'), ('110', 'X', 'NUM'), ('titles', 'X', 'NOUN'), ('presently', 'X', 'ADV'), 'in', 'the', 'collection', ',', 'any', 'of', 'which', ('may', 'NOUN', 'VERB'), 'be', 'borrowed', 'without', 'charge', '.']
+---
+['This', ('catalogue', 'X', 'NOUN'), ('lists', 'X', 'VERB'), ('separately', 'X', 'ADV'), ('films', 'X', 'NOUN'), ('suitable', 'X', 'ADJ'), 'for', 'children', ',', 'young', 'adults', ',', 'or', 'adults', ',', 'although', 'some', ('classics', 'ADJ', 'NOUN'), ('cut', 'NOUN', 'VERB'), 'across', 'age', 'groups', ',', ('such', 'PRT', 'ADJ'), ('as', 'ADV', 'ADP'), '``', ('Nanook', 'ADV', 'NOUN'), 'Of', 'The', ('North', 'ADJ', 'NOUN'), "''", ',', '``', 'The', ("Emperor's", 'X', 'NOUN'), ('Nightingale', 'X', 'NOUN'), "''", ',', 'and', '``', 'The', 'Red', 'Balloon', "''", '.']
+---
+['Workshops', 'are', 'conducted', 'by', 'the', ("system's", 'ADJ', 'NOUN'), 'audio-visual', 'consultant', 'for', 'the', 'staffs', 'of', 'member', 'libraries', ',', 'teaching', 'them', 'the', 'effective', 'use', 'of', 'film', 'as', 'a', 'library', 'service', '.']
+---
+['The', 'system', 'well', ('understands', 'ADV', 'VERB'), 'that', 'one', 'of', 'its', ('primary', 'NOUN', 'ADJ'), ('responsibilities', 'PRT', 'NOUN'), 'is', 'to', 'bring', 'children', 'and', 'books', 'together', ';', ';']
+---
+['consequently', 'an', 'experienced', "children's", 'librarian', 'at', 'headquarters', ('conducts', 'ADP', 'NOUN'), 'a', 'guidance', 'program', 'designed', 'to', 'promote', ('well-planned', 'DET', 'ADJ'), 'library', 'activities', ',', 'cooperating', 'with', 'the', "children's", 'librarians', 'in', 'member', 'libraries', 'by', 'means', 'of', 'individual', 'conferences', ',', 'workshops', ',', 'and', 'frequent', ('visits', 'VERB', 'NOUN'), '.']
+---
+['Headquarters', 'has', 'also', 'set', 'up', 'a', 'central', ('juvenile', 'ADJ', 'NOUN'), 'book-review', 'and', ('book-selection', 'ADJ', 'NOUN'), 'center', ',', 'to', 'provide', 'better', 'methods', 'of', ('purchasing', 'VERB', 'NOUN'), 'and', 'selection', '.']
+---
+[('Sample', 'X', 'NOUN'), ('copies', 'X', 'NOUN'), 'of', 'new', 'books', 'are', 'on', 'display', 'at', 'headquarters', ',', 'where', ('librarians', 'PRON', 'NOUN'), 'may', ('evaluate', 'ADV', 'VERB'), 'them', 'by', 'themselves', 'or', 'in', 'workshop', 'groups', '.']
+---
+['Story', 'hours', ',', ('pre-school', 'CONJ', 'ADJ'), 'programs', ',', 'activities', 'with', 'community', 'agencies', ',', 'and', ('lists', 'VERB', 'NOUN'), 'of', 'recommended', ('reading', 'VERB', 'NOUN'), 'are', 'all', 'in', 'the', 'province', 'of', 'the', "children's", 'consultant', '.']
+---
+['Headquarters', 'of', 'the', ('Nassau', 'ADJ', 'NOUN'), 'system', 'is', 'an', 'increasingly', 'busy', 'place', 'these', 'days', ',', 'threatening', 'to', 'expand', 'beyond', 'its', 'boundaries', '.']
+---
+['In', 'addition', 'to', 'the', 'interlibrary', 'loan', 'service', 'and', 'the', "children's", 'program', ',', 'headquarters', 'has', 'a', 'public', 'relations', 'director', 'who', 'seeks', 'to', 'get', 'wider', ('grassroots', 'ADJ', 'NOUN'), 'support', 'for', 'quality', 'library', 'service', 'in', 'the', 'county', ';', ';']
+---
+['it', ('prepares', 'X', 'VERB'), ('cooperative', 'X', 'ADJ'), ('displays', 'X', 'NOUN'), '(', 'posters', ',', ('booklists', 'NUM', 'NOUN'), ',', ('brochures', 'NUM', 'NOUN'), ',', 'and', 'other', 'promotional', 'material', ')', 'for', 'use', 'in', 'member', 'libraries', ';', ';']
+---
+['it', 'maintains', 'a', 'central', 'exhibit', 'collection', 'to', 'share', ('displays', 'ADV', 'NOUN'), 'already', 'created', 'and', 'used', ';', ';']
+---
+['and', 'it', 'publishes', 'Sum', 'And', 'Substance', ',', 'a', 'monthly', 'newsletter', ',', 'which', ('reports', 'NOUN', 'VERB'), 'the', ("system's", 'ADJ', 'NOUN'), 'activities', 'to', 'the', 'staffs', 'and', 'trustees', 'of', 'member', 'libraries', '.']
+---
+['The', 'system', 'itself', 'is', ('governed', 'ADV', 'VERB'), 'by', 'a', 'board', 'of', 'trustees', ',', ('geographically', 'PRON', 'ADV'), 'representing', 'its', 'membership', '.']
+---
+['In', ('Nassau', 'NUM', 'NOUN'), ',', ('as', 'ADV', 'ADP'), 'in', 'other', 'systems', ',', 'the', ('long-range', 'ADJ', 'NOUN'), 'objective', 'is', 'to', 'bring', 'the', 'maximum', 'service', 'of', ('libraries', 'PRON', 'NOUN'), 'to', 'bear', 'on', 'the', 'schools', ',', 'and', 'on', 'adult', 'education', 'in', ('general', 'NOUN', 'ADJ'), '.']
+---
+[('Librarians', 'PRON', 'NOUN'), ',', 'a', 'patient', 'breed', 'of', 'men', 'and', 'women', 'who', 'have', ('borne', 'DET', 'VERB'), 'much', 'with', 'dedication', ',', 'can', 'begin', 'to', 'see', 'results', 'today', '.']
+---
+['Library', ('use', 'VERB', 'NOUN'), 'is', ('multiplying', 'ADV', 'VERB'), 'daily', ',', 'and', 'the', 'bulk', 'of', 'the', 'newcomers', 'are', 'those', ('maligned', 'ADJ', 'VERB'), 'Americans', ',', 'the', 'teen-agers', '.']
+---
+['To', 'them', 'especially', 'the', 'librarians', ',', 'with', 'the', 'help', 'of', ('co-ops', 'NUM', 'NOUN'), ',', 'hope', 'they', 'will', 'never', 'have', 'to', 'say', ',', '``', "I'm", ('sorry', 'VERB', 'ADJ'), ',', 'we', "don't", 'have', ('that', 'ADP', 'DET'), 'book', "''", '.']
+---
+['Today', ',', ('more', 'ADV', 'ADJ'), 'than', 'ever', 'before', ',', 'the', 'survival', 'of', 'our', 'free', 'society', 'depends', 'upon', 'the', 'citizen', 'who', 'is', 'both', 'informed', 'and', 'concerned', '.']
+---
+['The', 'great', ('advances', 'PRT', 'NOUN'), 'made', 'in', 'recent', 'years', 'in', 'Communist', 'strength', 'and', 'in', 'our', 'own', 'capacity', 'to', 'destroy', 'require', 'an', ('educated', 'X', 'VERB'), ('citizenry', 'X', 'NOUN'), 'in', 'the', 'Western', 'world', '.']
+---
+['The', 'need', 'for', 'lifetime', ('reading', 'VERB', 'NOUN'), 'is', 'apparent', '.']
+---
+['The', 'desire', 'and', 'ability', ('to', 'PRT', 'ADP'), 'read', 'are', 'important', 'aspects', 'of', 'our', 'cultural', 'life', '.']
+---
+['if', 'we', 'are', 'not', ('discriminating', 'ADV', 'ADJ'), 'in', 'our', 'reading', ';', ';']
+---
+['We', 'must', 'not', 'permit', 'our', 'society', 'to', 'become', 'a', 'slave', 'to', 'the', 'scientific', 'age', ',', ('as', 'ADV', 'ADP'), 'might', 'well', 'happen', 'without', 'the', 'cultural', 'and', ('spiritual', 'X', 'ADJ'), ('restraint', 'X', 'NOUN'), ('that', 'ADP', 'DET'), 'comes', 'from', 'the', 'development', 'of', 'the', ('human', 'ADJ', 'NOUN'), 'mind', 'through', 'wisdom', 'absorbed', 'from', 'the', 'written', 'word', '.']
+---
+['Although', 'progress', 'has', 'been', 'made', 'in', "America's", 'system', 'of', ('libraries', 'DET', 'NOUN'), 'it', 'still', ('falls', 'NOUN', 'VERB'), 'short', 'of', 'what', 'is', 'required', 'if', 'we', 'are', 'to', 'maintain', 'the', 'standards', 'that', 'are', 'needed', 'for', 'an', 'informed', 'America', '.']
+---
+['The', 'problem', ('grows', 'NOUN', 'VERB'), 'in', 'intensity', 'each', 'year', 'as', "man's", 'knowledge', ',', 'and', 'his', 'capacity', ('to', 'ADP', 'PRT'), ('translate', 'DET', 'VERB'), 'such', 'knowledge', 'to', 'the', 'written', 'word', ',', 'continue', 'to', 'expand', '.']
+---
+['The', 'inadequacy', 'of', 'our', 'library', 'system', 'will', 'become', 'critical', 'unless', 'we', 'act', ('vigorously', 'VERB', 'ADV'), 'to', 'correct', 'this', 'condition', '.']
+---
+['There', 'are', ',', 'for', 'example', ',', 'approximately', ('25,000,000', 'ADJ', 'NUM'), 'people', 'in', 'this', 'country', 'with', 'no', 'public', 'library', 'service', 'and', 'about', ('50,000,000', 'ADV', 'NUM'), 'with', 'inadequate', 'service', '.']
+---
+['In', 'college', 'libraries', ',', ('57', 'ADV', 'NUM'), 'per', 'cent', 'of', 'the', 'total', 'number', 'of', 'books', 'are', 'owned', 'by', '124', 'of', ('1,509', 'DET', 'NUM'), 'institutions', 'surveyed', 'last', 'year', 'by', 'the', 'U.S.', 'Office', 'of', 'Education', '.']
+---
+['And', 'over', ('66', 'VERB', 'NUM'), 'per', 'cent', 'of', 'the', 'elementary', 'schools', 'with', '150', 'or', 'more', ('pupils', 'PRT', 'NOUN'), 'do', 'not', 'have', 'any', 'library', 'at', 'all', '.']
+---
+['In', 'every', 'aspect', 'of', 'service', '--', 'to', 'the', ('public', 'ADJ', 'NOUN'), ',', 'to', 'children', 'in', 'schools', ',', 'to', 'colleges', 'and', 'universities', '--', 'the', 'library', 'of', 'today', 'is', 'failing', 'to', 'render', ('vitally', 'PRT', 'ADV'), 'needed', 'services', '.']
+---
+[('Only', 'ADV', 'ADJ'), 'public', 'understanding', 'and', 'support', 'can', 'provide', ('that', 'ADP', 'DET'), 'service', '.']
+---
+['This', 'is', 'one', 'of', 'the', 'main', 'reasons', 'for', 'National', 'Library', 'Week', ',', 'April', ('16-22', 'NOUN', 'NUM'), ',', 'and', 'for', 'its', 'theme', ':', '``', 'For', 'a', ('richer', 'NOUN', 'ADJ'), ',', ('fuller', 'CONJ', 'ADJ'), 'life', ',', 'read', "''", '!', '!']
+---
+
+
+SPOILERS!!!
+
+4b.
+easer_to_read = ['They', 'lacked', 'time', 'to', 'prepare', 'the', 'Congo', ',', 'as', 'the', ('British', 'ADJ', 'NOUN'), 'and', 'French', 'had', 'prepared', 'their', 'colonies', '.']
+tagged_sequence = [('They', 'PRON'), ('lacked', 'VERB'), ('time', 'NOUN'), ('to', 'PRT'), ('prepare', 'VERB'), ('the', 'DET'), ('Congo', 'NOUN'), (',', '.'), ('as', 'ADP'), ('the', 'DET'), ('British', 'ADJ'), ('and', 'CONJ'), ('French', 'NOUN'), ('had', 'VERB'), ('prepared', 'VERB'), ('their', 'DET'), ('colonies', 'NOUN'), ('.', '.')]
+correct_sequence = [('They', 'PRON'), ('lacked', 'VERB'), ('time', 'NOUN'), ('to', 'PRT'), ('prepare', 'VERB'), ('the', 'DET'), ('Congo', 'NOUN'), (',', '.'), ('as', 'ADP'), ('the', 'DET'), ('British', 'NOUN'), ('and', 'CONJ'), ('French', 'NOUN'), ('had', 'VERB'), ('prepared', 'VERB'), ('their', 'DET'), ('colonies', 'NOUN'), ('.', '.')]
+---
+answer = "Given transition probs and its position in sentence, it's clear
+  that it's a noun. However, given emission probs from the data our model
+  was exposed to, it's trained to see 'British' as an adjective. Each one's
+  influenced by a different half: P(tag_i+1 | tag_i) * P(word | tag_i+1)"
+
+5.
+Mysteriously mysterious...
+
+6. 
+answer = "There are far more POS in Brown Corpus than Universal. Thus, model
+  may achieve far greater construction coverage with smaller training data,
+  like ours. This allows for a spread more representative of natural languages
+  among the given POS tags + more accurate transition probabilities. In contrast,
+  I imagine a scatter plot wherein the data points would gravitate towards POS
+  they've seen, forming unnatural clusters. Though, Brown seems more precise
+  if the data allows you to pass the learning curve."
